@@ -1,0 +1,1332 @@
+[
+  {
+    "basic_information": {
+      "name": "Apple",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/500px-Red_Apple.jpg",
+      "scientific_name": "Malus domestica",
+      "color": "Red, Green, Yellow",
+      "season": "Autumn"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 52,
+      "water_g": 85.6,
+      "protein_g": 0.3,
+      "carbohydrates_g": 13.8,
+      "sugar_g": 10.4,
+      "fibre_g": 2.4,
+      "fat_g": 0.2,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 3,
+      "vitamin_b1_mg": 0.02,
+      "vitamin_b2_mg": 0.03,
+      "vitamin_b3_mg": 0.09,
+      "vitamin_b5_mg": 0.06,
+      "vitamin_b6_mg": 0.04,
+      "vitamin_b7_mcg": 0.9,
+      "vitamin_b9_mcg": 3,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 4.6,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.18,
+      "vitamin_k_mcg": 2.2
+    },
+    "minerals": {
+      "calcium_mg": 6,
+      "iron_mg": 0.1,
+      "magnesium_mg": 5,
+      "phosphorus_mg": 11,
+      "potassium_mg": 107,
+      "sodium_mg": 1,
+      "zinc_mg": 0.04,
+      "copper_mg": 0.03,
+      "manganese_mg": 0.04,
+      "selenium_mcg": 0.0
+    },
+    "benefits": {
+      "eyes": "Quercetin and antioxidants protect retinal cells from oxidative damage",
+      "bones": "Boron in apples supports bone density and calcium retention",
+      "skin": "Vitamin C and polyphenols promote collagen production and protect against UV damage",
+      "heart": "Soluble fibre (pectin) lowers LDL cholesterol; quercetin reduces inflammation",
+      "brain": "Quercetin protects neurons; associated with reduced risk of Alzheimer's disease",
+      "digestion": "Pectin acts as a prebiotic, feeding beneficial gut bacteria and regulating bowel movements",
+      "immunity": "Vitamin C and phytochemicals strengthen immune defences",
+      "blood": "Polyphenols improve insulin sensitivity and help regulate blood sugar levels"
+    },
+    "best_ways_to_eat": {
+      "raw": "Best eaten raw with skin for maximum fibre, quercetin, and antioxidants",
+      "boiled": "Stewed apples are gentle on digestion and great for children",
+      "steamed": "Lightly steamed preserves most nutrients while softening texture",
+      "juice": "Fresh apple juice provides polyphenols but loses fibre; best unfiltered",
+      "cooked": "Baked apples with cinnamon make a nutritious dessert; used in pies and sauces"
+    },
+    "interesting_facts": [
+      "There are over 7,500 varieties of apples grown worldwide.",
+      "Apples float in water because they are 25% air.",
+      "The study of apples is called pomology.",
+      "It takes about 36 apples to make one gallon of apple cider.",
+      "Apple trees can live for more than 100 years."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Banana",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Banana-Cavendish.jpg/500px-Banana-Cavendish.jpg",
+      "scientific_name": "Musa acuminata",
+      "color": "Yellow, Green",
+      "season": "Year-round (tropical)"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 89,
+      "water_g": 74.9,
+      "protein_g": 1.1,
+      "carbohydrates_g": 22.8,
+      "sugar_g": 12.2,
+      "fibre_g": 2.6,
+      "fat_g": 0.3,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 3,
+      "vitamin_b1_mg": 0.03,
+      "vitamin_b2_mg": 0.07,
+      "vitamin_b3_mg": 0.67,
+      "vitamin_b5_mg": 0.33,
+      "vitamin_b6_mg": 0.37,
+      "vitamin_b7_mcg": 2.6,
+      "vitamin_b9_mcg": 20,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 8.7,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.10,
+      "vitamin_k_mcg": 0.5
+    },
+    "minerals": {
+      "calcium_mg": 5,
+      "iron_mg": 0.3,
+      "magnesium_mg": 27,
+      "phosphorus_mg": 22,
+      "potassium_mg": 358,
+      "sodium_mg": 1,
+      "zinc_mg": 0.15,
+      "copper_mg": 0.08,
+      "manganese_mg": 0.27,
+      "selenium_mcg": 1.0
+    },
+    "benefits": {
+      "eyes": "Vitamin A and antioxidants help protect corneal health and night vision",
+      "bones": "Magnesium and potassium support calcium retention and bone mineral density",
+      "skin": "Vitamin C and manganese promote collagen synthesis for healthy skin",
+      "heart": "High potassium content regulates heart rhythm and blood pressure",
+      "brain": "Vitamin B6 supports serotonin and dopamine production; tryptophan improves mood",
+      "digestion": "Resistant starch in unripe bananas feeds gut bacteria; ripe bananas soothe the gut lining",
+      "immunity": "Vitamin B6 and Vitamin C support immune cell production",
+      "blood": "Potassium regulates blood pressure; Vitamin B6 is essential for haemoglobin synthesis"
+    },
+    "best_ways_to_eat": {
+      "raw": "Best eaten ripe and raw; the riper the banana, the more antioxidants it contains",
+      "boiled": "Green bananas are boiled in some cuisines as a starchy side dish",
+      "steamed": "Steamed banana is used in Asian desserts and as a weaning food",
+      "juice": "Blended into smoothies with milk or yoghurt for a creamy, potassium-rich drink",
+      "cooked": "Baked into banana bread, pancakes, or grilled for caramelised sweetness"
+    },
+    "interesting_facts": [
+      "Bananas are technically berries botanically, while strawberries are not.",
+      "The Cavendish banana, the world's most popular variety, is threatened by a fungal disease called Panama disease.",
+      "Bananas are mildly radioactive due to their potassium-40 content.",
+      "Rubbing the inside of a banana peel on a mosquito bite can help reduce itching.",
+      "Bananas ripen faster when kept in a bunch because they release ethylene gas."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Mango",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hapus_Mango.jpg/500px-Hapus_Mango.jpg",
+      "scientific_name": "Mangifera indica",
+      "color": "Yellow, Orange, Red, Green",
+      "season": "Summer"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 60,
+      "water_g": 83.5,
+      "protein_g": 0.8,
+      "carbohydrates_g": 15.0,
+      "sugar_g": 13.7,
+      "fibre_g": 1.6,
+      "fat_g": 0.4,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 54,
+      "vitamin_b1_mg": 0.03,
+      "vitamin_b2_mg": 0.04,
+      "vitamin_b3_mg": 0.67,
+      "vitamin_b5_mg": 0.20,
+      "vitamin_b6_mg": 0.12,
+      "vitamin_b7_mcg": 1.8,
+      "vitamin_b9_mcg": 43,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 36.4,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.90,
+      "vitamin_k_mcg": 4.2
+    },
+    "minerals": {
+      "calcium_mg": 11,
+      "iron_mg": 0.2,
+      "magnesium_mg": 10,
+      "phosphorus_mg": 14,
+      "potassium_mg": 168,
+      "sodium_mg": 1,
+      "zinc_mg": 0.09,
+      "copper_mg": 0.11,
+      "manganese_mg": 0.06,
+      "selenium_mcg": 0.6
+    },
+    "benefits": {
+      "eyes": "Very high in beta-carotene and Vitamin A, critical for sharp vision and eye health",
+      "bones": "Vitamin K and calcium support bone mineralisation",
+      "skin": "Vitamin C boosts collagen; beta-carotene and polyphenols protect against UV damage",
+      "heart": "Mangiferin reduces inflammation and LDL oxidation; potassium regulates blood pressure",
+      "brain": "Folate and Vitamin B6 support neurotransmitter production and mood regulation",
+      "digestion": "Amylase enzymes and fibre aid digestion; mangiferin reduces gut inflammation",
+      "immunity": "Rich in Vitamin C, Vitamin A, and folate which all strengthen immune function",
+      "blood": "Folate supports red blood cell formation; Vitamin C enhances iron absorption"
+    },
+    "best_ways_to_eat": {
+      "raw": "Best eaten fresh and ripe; sliced or diced in fruit salads for maximum nutrients",
+      "boiled": "Unripe mango is boiled and used in chutneys and pickles",
+      "steamed": "Rarely steamed; occasionally used in desserts",
+      "juice": "Fresh mango juice or lassi (blended with yoghurt) is a popular tropical drink",
+      "cooked": "Used in curries, salsas, and desserts; dried mango makes a sweet snack"
+    },
+    "interesting_facts": [
+      "Mango is the national fruit of India, Pakistan, and the Philippines.",
+      "India produces about 40% of the world's mangoes.",
+      "The mango tree can live for over 300 years and still produce fruit.",
+      "Mangoes belong to the same family as cashews and pistachios (Anacardiaceae).",
+      "Over 1,000 varieties of mango exist, including the prized Alphonso (Hapus) from India."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Orange",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Oranges_and_orange_juice.jpg/500px-Oranges_and_orange_juice.jpg",
+      "scientific_name": "Citrus sinensis",
+      "color": "Orange",
+      "season": "Winter, Spring"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 47,
+      "water_g": 86.8,
+      "protein_g": 0.9,
+      "carbohydrates_g": 11.8,
+      "sugar_g": 9.4,
+      "fibre_g": 2.4,
+      "fat_g": 0.1,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 11,
+      "vitamin_b1_mg": 0.09,
+      "vitamin_b2_mg": 0.04,
+      "vitamin_b3_mg": 0.28,
+      "vitamin_b5_mg": 0.25,
+      "vitamin_b6_mg": 0.06,
+      "vitamin_b7_mcg": 1.0,
+      "vitamin_b9_mcg": 30,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 53.2,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.18,
+      "vitamin_k_mcg": 0.0
+    },
+    "minerals": {
+      "calcium_mg": 40,
+      "iron_mg": 0.1,
+      "magnesium_mg": 10,
+      "phosphorus_mg": 14,
+      "potassium_mg": 181,
+      "sodium_mg": 0,
+      "zinc_mg": 0.07,
+      "copper_mg": 0.04,
+      "manganese_mg": 0.02,
+      "selenium_mcg": 0.5
+    },
+    "benefits": {
+      "eyes": "Beta-carotene and Vitamin C reduce risk of cataracts and macular degeneration",
+      "bones": "Calcium and Vitamin C support bone density and collagen in bone matrix",
+      "skin": "Exceptional Vitamin C content promotes collagen synthesis and brightens skin tone",
+      "heart": "Hesperidin lowers blood pressure and cholesterol; folate reduces homocysteine levels",
+      "brain": "Flavonoids and folate support cognitive function and reduce decline",
+      "digestion": "Soluble and insoluble fibre support healthy digestion and gut microbiome",
+      "immunity": "One of the richest common sources of Vitamin C for immune defence",
+      "blood": "Vitamin C enhances non-haem iron absorption; folate supports red blood cell formation"
+    },
+    "best_ways_to_eat": {
+      "raw": "Eaten in segments retains all fibre, flavonoids, and Vitamin C",
+      "boiled": "Orange peel is simmered to make candied peel or marmalade",
+      "steamed": "Rarely steamed; not a traditional preparation",
+      "juice": "Fresh-squeezed orange juice is rich in Vitamin C; best consumed immediately",
+      "cooked": "Zest and juice used in baking, sauces, marinades, and dressings"
+    },
+    "interesting_facts": [
+      "Oranges are a hybrid of pomelo and mandarin, first cultivated in Southeast Asia around 4,000 years ago.",
+      "Brazil is the world's largest producer of oranges.",
+      "The colour orange was named after the fruit, not the other way around.",
+      "Navel oranges have a small secondary fruit embedded at their base, resembling a navel.",
+      "Orange peel contains more Vitamin C and fibre than the flesh itself."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Strawberry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PerfectStrawberry.jpg/500px-PerfectStrawberry.jpg",
+      "scientific_name": "Fragaria × ananassa",
+      "color": "Red",
+      "season": "Spring, Summer"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 32,
+      "water_g": 90.9,
+      "protein_g": 0.7,
+      "carbohydrates_g": 7.7,
+      "sugar_g": 4.9,
+      "fibre_g": 2.0,
+      "fat_g": 0.3,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 1,
+      "vitamin_b1_mg": 0.02,
+      "vitamin_b2_mg": 0.02,
+      "vitamin_b3_mg": 0.39,
+      "vitamin_b5_mg": 0.13,
+      "vitamin_b6_mg": 0.05,
+      "vitamin_b7_mcg": 1.7,
+      "vitamin_b9_mcg": 24,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 58.8,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.29,
+      "vitamin_k_mcg": 2.2
+    },
+    "minerals": {
+      "calcium_mg": 16,
+      "iron_mg": 0.4,
+      "magnesium_mg": 13,
+      "phosphorus_mg": 24,
+      "potassium_mg": 153,
+      "sodium_mg": 1,
+      "zinc_mg": 0.14,
+      "copper_mg": 0.05,
+      "manganese_mg": 0.39,
+      "selenium_mcg": 0.4
+    },
+    "benefits": {
+      "eyes": "Antioxidants and Vitamin C reduce risk of cataracts and protect the retina",
+      "bones": "Manganese is critical for bone formation and cartilage development",
+      "skin": "Highest Vitamin C among berries; ellagic acid prevents collagen breakdown from UV exposure",
+      "heart": "Anthocyanins and quercetin reduce LDL oxidation and blood pressure",
+      "brain": "Fisetin and anthocyanins protect neurons and are associated with improved memory",
+      "digestion": "Fibre supports gut health and bowel regularity",
+      "immunity": "Exceptional Vitamin C content boosts immune defences",
+      "blood": "Folate supports red blood cell formation; Vitamin C enhances iron absorption"
+    },
+    "best_ways_to_eat": {
+      "raw": "Best eaten fresh and ripe for maximum Vitamin C, anthocyanins, and fisetin",
+      "boiled": "Cooked into jams, compotes, and sauces; some nutrients are reduced",
+      "steamed": "Not typically steamed; raw or cooked are preferred",
+      "juice": "Fresh strawberry juice or smoothies provide concentrated antioxidants",
+      "cooked": "Used in tarts, pies, baked desserts, and sauces"
+    },
+    "interesting_facts": [
+      "Strawberries are the only fruit that bear their seeds on the outside, with about 200 seeds per berry.",
+      "Botanically, strawberries are not true berries — they are 'accessory fruits'.",
+      "Belgium has a museum dedicated entirely to strawberries.",
+      "Strawberries were used by ancient Romans medicinally for teeth whitening and gum health.",
+      "The modern cultivated strawberry was first bred in Brittany, France, in the 1750s."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Grapes",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kyoho-grape.jpg/500px-Kyoho-grape.jpg",
+      "scientific_name": "Vitis vinifera",
+      "color": "Green, Red, Purple, Black",
+      "season": "Summer, Autumn"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 69,
+      "water_g": 80.5,
+      "protein_g": 0.7,
+      "carbohydrates_g": 18.1,
+      "sugar_g": 15.5,
+      "fibre_g": 0.9,
+      "fat_g": 0.2,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 3,
+      "vitamin_b1_mg": 0.07,
+      "vitamin_b2_mg": 0.07,
+      "vitamin_b3_mg": 0.19,
+      "vitamin_b5_mg": 0.05,
+      "vitamin_b6_mg": 0.09,
+      "vitamin_b7_mcg": 1.5,
+      "vitamin_b9_mcg": 2,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 10.8,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.19,
+      "vitamin_k_mcg": 14.6
+    },
+    "minerals": {
+      "calcium_mg": 10,
+      "iron_mg": 0.4,
+      "magnesium_mg": 7,
+      "phosphorus_mg": 20,
+      "potassium_mg": 191,
+      "sodium_mg": 2,
+      "zinc_mg": 0.07,
+      "copper_mg": 0.13,
+      "manganese_mg": 0.07,
+      "selenium_mcg": 0.1
+    },
+    "benefits": {
+      "eyes": "Resveratrol and lutein protect the retina from oxidative damage and degeneration",
+      "bones": "Resveratrol has been shown to increase bone density and reduce bone loss",
+      "skin": "Resveratrol and OPCs (oligomeric proanthocyanidins) protect skin from ageing and UV damage",
+      "heart": "Resveratrol reduces clot formation and LDL oxidation; polyphenols lower blood pressure",
+      "brain": "Resveratrol crosses the blood-brain barrier and improves memory and cognitive function",
+      "digestion": "Fibre and water content support gut health; resveratrol promotes healthy gut microbiome",
+      "immunity": "Vitamin C and polyphenols strengthen immune defences and reduce inflammation",
+      "blood": "Resveratrol reduces platelet aggregation; Vitamin K supports proper blood clotting"
+    },
+    "best_ways_to_eat": {
+      "raw": "Best eaten fresh with skin for maximum resveratrol and fibre",
+      "boiled": "Not typically boiled; cooked into jams and jellies",
+      "steamed": "Rarely steamed; fresh consumption is preferred",
+      "juice": "Fresh grape juice provides polyphenols; red/purple juice has more resveratrol",
+      "cooked": "Roasted grapes develop intense sweetness; used in winemaking and raisins"
+    },
+    "interesting_facts": [
+      "Grapes are one of the oldest cultivated fruits, with evidence of winemaking dating back 8,000 years.",
+      "There are over 10,000 varieties of grapes grown worldwide.",
+      "Raisins are simply dried grapes and contain concentrated nutrients.",
+      "Resveratrol in red grapes is concentrated in the skin and seeds.",
+      "Grapes grow in clusters of 6 to 300 on a vine and are classified as true berries botanically."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Watermelon",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png/500px-PNG_transparency_demonstration_1.png",
+      "scientific_name": "Citrullus lanatus",
+      "color": "Red, Pink (Green rind)",
+      "season": "Summer"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 30,
+      "water_g": 91.4,
+      "protein_g": 0.6,
+      "carbohydrates_g": 7.6,
+      "sugar_g": 6.2,
+      "fibre_g": 0.4,
+      "fat_g": 0.2,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 28,
+      "vitamin_b1_mg": 0.03,
+      "vitamin_b2_mg": 0.02,
+      "vitamin_b3_mg": 0.18,
+      "vitamin_b5_mg": 0.22,
+      "vitamin_b6_mg": 0.05,
+      "vitamin_b7_mcg": 0.7,
+      "vitamin_b9_mcg": 3,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 8.1,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.05,
+      "vitamin_k_mcg": 0.1
+    },
+    "minerals": {
+      "calcium_mg": 7,
+      "iron_mg": 0.2,
+      "magnesium_mg": 10,
+      "phosphorus_mg": 11,
+      "potassium_mg": 112,
+      "sodium_mg": 1,
+      "zinc_mg": 0.10,
+      "copper_mg": 0.04,
+      "manganese_mg": 0.04,
+      "selenium_mcg": 0.4
+    },
+    "benefits": {
+      "eyes": "Lycopene and beta-carotene protect the retina and reduce risk of macular degeneration",
+      "bones": "Lycopene and potassium have been linked to improved bone density",
+      "skin": "Lycopene protects against UV damage; high water content keeps skin hydrated",
+      "heart": "Lycopene reduces LDL oxidation and blood pressure; citrulline improves arterial function",
+      "brain": "Vitamin B6 and antioxidants support cognitive function and mood",
+      "digestion": "High water content hydrates the digestive tract and promotes regularity",
+      "immunity": "Vitamin C and lycopene bolster immune defences and reduce inflammation",
+      "blood": "Citrulline is converted to arginine, which improves blood flow and lowers blood pressure"
+    },
+    "best_ways_to_eat": {
+      "raw": "Best eaten fresh and chilled; sliced or cubed for snacking",
+      "boiled": "Watermelon rind can be pickled or cooked as a vegetable in some cuisines",
+      "steamed": "Not typically steamed; raw is the preferred method",
+      "juice": "Fresh watermelon juice is an excellent hydrating and lycopene-rich drink",
+      "cooked": "Grilled watermelon caramelises its sugars and pairs well with feta and mint"
+    },
+    "interesting_facts": [
+      "Watermelon is 91% water, making it one of the most hydrating foods available.",
+      "Watermelon originated in the Kalahari Desert of Africa, where wild varieties still grow.",
+      "The rind of a watermelon is edible and contains citrulline, an amino acid that boosts athletic performance.",
+      "In Japan, square watermelons are grown in box-shaped moulds for easier storage.",
+      "Watermelon contains more lycopene than raw tomatoes per 100g."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Pineapple",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pineapple_and_cross_section.jpg/500px-Pineapple_and_cross_section.jpg",
+      "scientific_name": "Ananas comosus",
+      "color": "Yellow",
+      "season": "Spring, Summer (tropical year-round)"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 50,
+      "water_g": 86.0,
+      "protein_g": 0.5,
+      "carbohydrates_g": 13.1,
+      "sugar_g": 9.9,
+      "fibre_g": 1.4,
+      "fat_g": 0.1,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 3,
+      "vitamin_b1_mg": 0.08,
+      "vitamin_b2_mg": 0.03,
+      "vitamin_b3_mg": 0.50,
+      "vitamin_b5_mg": 0.21,
+      "vitamin_b6_mg": 0.11,
+      "vitamin_b7_mcg": 1.3,
+      "vitamin_b9_mcg": 18,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 47.8,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.02,
+      "vitamin_k_mcg": 0.7
+    },
+    "minerals": {
+      "calcium_mg": 13,
+      "iron_mg": 0.3,
+      "magnesium_mg": 12,
+      "phosphorus_mg": 8,
+      "potassium_mg": 109,
+      "sodium_mg": 1,
+      "zinc_mg": 0.12,
+      "copper_mg": 0.11,
+      "manganese_mg": 0.93,
+      "selenium_mcg": 0.1
+    },
+    "benefits": {
+      "eyes": "Beta-carotene and antioxidants reduce risk of cataracts and macular degeneration",
+      "bones": "Manganese is essential for bone formation; Vitamin C supports collagen in bone matrix",
+      "skin": "Bromelain reduces skin inflammation; Vitamin C promotes collagen production",
+      "heart": "Bromelain dissolves blood clots and reduces arterial inflammation",
+      "brain": "Vitamin B6 supports serotonin production; antioxidants reduce neurological inflammation",
+      "digestion": "Bromelain enzyme breaks down protein and significantly aids protein digestion",
+      "immunity": "Very high Vitamin C and bromelain together powerfully boost immune function",
+      "blood": "Bromelain has anticoagulant properties and may reduce risk of blood clots"
+    },
+    "best_ways_to_eat": {
+      "raw": "Fresh pineapple maximises bromelain enzyme activity and Vitamin C content",
+      "boiled": "Canned or cooked pineapple has reduced bromelain activity",
+      "steamed": "Lightly steamed retains some nutrients while reducing acidity",
+      "juice": "Fresh pineapple juice is rich in Vitamin C and bromelain",
+      "cooked": "Grilled pineapple caramelises naturally; used in stir-fries, curries, and desserts"
+    },
+    "interesting_facts": [
+      "Bromelain in pineapple is so powerful it can tenderise meat and digest the proteins in your mouth as you eat it.",
+      "A pineapple plant takes about 18–24 months to produce a single fruit.",
+      "In the 18th century, pineapples were so expensive in Europe that people rented them as a dinner table centrepiece.",
+      "Pineapple plants can only produce one fruit at a time.",
+      "Pineapple is the only known source of bromelain, a compound with significant anti-inflammatory properties."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Papaya",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Papaya_-_longitudinal_section.jpg/500px-Papaya_-_longitudinal_section.jpg",
+      "scientific_name": "Carica papaya",
+      "color": "Orange, Yellow",
+      "season": "Year-round (tropical)"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 43,
+      "water_g": 88.1,
+      "protein_g": 0.5,
+      "carbohydrates_g": 10.8,
+      "sugar_g": 7.8,
+      "fibre_g": 1.7,
+      "fat_g": 0.3,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 47,
+      "vitamin_b1_mg": 0.02,
+      "vitamin_b2_mg": 0.03,
+      "vitamin_b3_mg": 0.34,
+      "vitamin_b5_mg": 0.19,
+      "vitamin_b6_mg": 0.04,
+      "vitamin_b7_mcg": 1.0,
+      "vitamin_b9_mcg": 37,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 61.8,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.30,
+      "vitamin_k_mcg": 2.6
+    },
+    "minerals": {
+      "calcium_mg": 20,
+      "iron_mg": 0.3,
+      "magnesium_mg": 21,
+      "phosphorus_mg": 10,
+      "potassium_mg": 182,
+      "sodium_mg": 8,
+      "zinc_mg": 0.08,
+      "copper_mg": 0.04,
+      "manganese_mg": 0.04,
+      "selenium_mcg": 0.6
+    },
+    "benefits": {
+      "eyes": "Beta-carotene, Vitamin A, and lutein protect eyes and support night vision",
+      "bones": "Calcium and Vitamin K support bone density and strength",
+      "skin": "Papain enzyme exfoliates dead skin cells; Vitamin C promotes collagen and brightens skin",
+      "heart": "Fibre, folate, and Vitamin C work together to reduce atherosclerosis risk",
+      "brain": "Folate reduces homocysteine levels linked to cognitive decline",
+      "digestion": "Papain enzyme breaks down proteins, making papaya one of the best digestive fruits",
+      "immunity": "Very high Vitamin C and beta-carotene together greatly enhance immune function",
+      "blood": "Folate is essential for red blood cell formation; Vitamin C boosts iron absorption"
+    },
+    "best_ways_to_eat": {
+      "raw": "Best eaten ripe and raw for maximum papain enzyme activity and Vitamin C",
+      "boiled": "Unripe papaya is boiled or cooked in curries and stews in Asian cuisine",
+      "steamed": "Lightly steamed ripe papaya softens while retaining most nutrients",
+      "juice": "Fresh papaya juice provides concentrated beta-carotene and digestive enzymes",
+      "cooked": "Green papaya is used in Thai salads (som tam) and Indian curries"
+    },
+    "interesting_facts": [
+      "Christopher Columbus called papaya the 'fruit of the angels'.",
+      "Papain enzyme from papaya is used commercially as a meat tenderiser and in digestive supplements.",
+      "Papaya seeds are edible and have a peppery flavour; they are used as a spice and traditional deworming remedy.",
+      "India is the world's largest producer of papaya.",
+      "Unripe papaya contains high levels of latex which can trigger contractions and is avoided during pregnancy."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Kiwi",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kiwi_-_Habitually_Chic.jpg/500px-Kiwi_-_Habitually_Chic.jpg",
+      "scientific_name": "Actinidia deliciosa",
+      "color": "Green, Yellow",
+      "season": "Autumn, Winter"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 61,
+      "water_g": 83.1,
+      "protein_g": 1.1,
+      "carbohydrates_g": 14.7,
+      "sugar_g": 9.0,
+      "fibre_g": 3.0,
+      "fat_g": 0.5,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 4,
+      "vitamin_b1_mg": 0.03,
+      "vitamin_b2_mg": 0.03,
+      "vitamin_b3_mg": 0.34,
+      "vitamin_b5_mg": 0.18,
+      "vitamin_b6_mg": 0.06,
+      "vitamin_b7_mcg": 2.1,
+      "vitamin_b9_mcg": 25,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 92.7,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 1.46,
+      "vitamin_k_mcg": 40.3
+    },
+    "minerals": {
+      "calcium_mg": 34,
+      "iron_mg": 0.3,
+      "magnesium_mg": 17,
+      "phosphorus_mg": 34,
+      "potassium_mg": 312,
+      "sodium_mg": 3,
+      "zinc_mg": 0.14,
+      "copper_mg": 0.13,
+      "manganese_mg": 0.10,
+      "selenium_mcg": 0.2
+    },
+    "benefits": {
+      "eyes": "Lutein and zeaxanthin are present in high amounts, protecting against macular degeneration",
+      "bones": "Vitamin K is essential for bone protein activation; calcium and phosphorus support structure",
+      "skin": "One of the highest Vitamin C fruits; promotes collagen synthesis and skin elasticity",
+      "heart": "Potassium lowers blood pressure; Vitamin E and C reduce LDL oxidation",
+      "brain": "Vitamin C protects neurons from oxidative stress; folate supports mood and cognition",
+      "digestion": "Actinidin enzyme aids protein digestion; high fibre content promotes gut regularity",
+      "immunity": "Gram for gram, kiwi has more Vitamin C than oranges, powerfully boosting immunity",
+      "blood": "Antiplatelet compounds reduce blood clotting risk; Vitamin K regulates clotting factors"
+    },
+    "best_ways_to_eat": {
+      "raw": "Best eaten raw — scoop the flesh with a spoon or slice and eat with skin on",
+      "boiled": "Rarely cooked; heat destroys actinidin enzyme and reduces Vitamin C",
+      "steamed": "Occasionally used in warm desserts; minimal steaming preferred",
+      "juice": "Fresh kiwi juice or blended into smoothies for a Vitamin C punch",
+      "cooked": "Used in pavlova topping, fruit tarts, and salsas"
+    },
+    "interesting_facts": [
+      "Despite being New Zealand's national symbol, kiwi fruit originated in China, where it was called 'Yang Tao'.",
+      "Kiwi fruit contains more Vitamin C per 100g than oranges.",
+      "Eating 2 kiwis before bed has been shown in studies to improve sleep onset and duration.",
+      "The skin of the kiwi is edible and contains additional fibre and antioxidants.",
+      "Kiwi contains actinidin, a protein-digesting enzyme that makes it useful as a meat tenderiser."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Pomegranate",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pomegranate_DSW.jpg/500px-Pomegranate_DSW.jpg",
+      "scientific_name": "Punica granatum",
+      "color": "Deep Red",
+      "season": "Autumn, Winter"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 83,
+      "water_g": 77.9,
+      "protein_g": 1.7,
+      "carbohydrates_g": 18.7,
+      "sugar_g": 13.7,
+      "fibre_g": 4.0,
+      "fat_g": 1.2,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 0,
+      "vitamin_b1_mg": 0.07,
+      "vitamin_b2_mg": 0.05,
+      "vitamin_b3_mg": 0.29,
+      "vitamin_b5_mg": 0.38,
+      "vitamin_b6_mg": 0.08,
+      "vitamin_b7_mcg": 0.6,
+      "vitamin_b9_mcg": 38,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 10.2,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.60,
+      "vitamin_k_mcg": 16.4
+    },
+    "minerals": {
+      "calcium_mg": 10,
+      "iron_mg": 0.3,
+      "magnesium_mg": 12,
+      "phosphorus_mg": 36,
+      "potassium_mg": 236,
+      "sodium_mg": 3,
+      "zinc_mg": 0.35,
+      "copper_mg": 0.16,
+      "manganese_mg": 0.12,
+      "selenium_mcg": 0.5
+    },
+    "benefits": {
+      "eyes": "Punicalagins and anthocyanins protect eye cells and reduce inflammation",
+      "bones": "Pomegranate extract has been shown to inhibit enzymes that degrade cartilage",
+      "skin": "Punicic acid and ellagitannins protect skin from ageing and promote cell regeneration",
+      "heart": "Punicalagins are extraordinarily potent antioxidants that reduce arterial plaque",
+      "brain": "Ellagitannins produce urolithins which have neuroprotective properties",
+      "digestion": "High fibre content supports bowel health; punicalagins have anti-inflammatory gut effects",
+      "immunity": "Punicalagins provide 3× the antioxidant activity of red wine and green tea",
+      "blood": "Reduces blood pressure significantly; anti-platelet properties improve blood flow"
+    },
+    "best_ways_to_eat": {
+      "raw": "Arils (seeds) eaten fresh provide maximum antioxidants and fibre",
+      "boiled": "Pomegranate peel is boiled for herbal teas and medicinal purposes",
+      "steamed": "Not typically steamed; raw is optimal",
+      "juice": "Pomegranate juice has among the highest antioxidant activity of any fruit juice",
+      "cooked": "Molasses and glazes made from pomegranate juice used in Middle Eastern cooking"
+    },
+    "interesting_facts": [
+      "Pomegranate trees can live for over 200 years.",
+      "The pomegranate is mentioned in ancient texts from the Egyptian, Greek, Hebrew, and Islamic traditions.",
+      "A single pomegranate contains approximately 600 arils (seeds).",
+      "Pomegranate has been used in traditional medicine for over 3,000 years.",
+      "The word 'grenade' in French originally referred to pomegranate, due to its resemblance to the shape of the explosive."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Blueberry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Blueberries_with_straw.jpg/500px-Blueberries_with_straw.jpg",
+      "scientific_name": "Vaccinium corymbosum",
+      "color": "Blue-Purple",
+      "season": "Summer"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 57,
+      "water_g": 84.2,
+      "protein_g": 0.7,
+      "carbohydrates_g": 14.5,
+      "sugar_g": 10.0,
+      "fibre_g": 2.4,
+      "fat_g": 0.3,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 3,
+      "vitamin_b1_mg": 0.04,
+      "vitamin_b2_mg": 0.04,
+      "vitamin_b3_mg": 0.42,
+      "vitamin_b5_mg": 0.12,
+      "vitamin_b6_mg": 0.05,
+      "vitamin_b7_mcg": 0.9,
+      "vitamin_b9_mcg": 6,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 9.7,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.57,
+      "vitamin_k_mcg": 19.3
+    },
+    "minerals": {
+      "calcium_mg": 6,
+      "iron_mg": 0.3,
+      "magnesium_mg": 6,
+      "phosphorus_mg": 12,
+      "potassium_mg": 77,
+      "sodium_mg": 1,
+      "zinc_mg": 0.16,
+      "copper_mg": 0.06,
+      "manganese_mg": 0.34,
+      "selenium_mcg": 0.1
+    },
+    "benefits": {
+      "eyes": "Anthocyanins protect the retina and may improve night vision and eye blood flow",
+      "bones": "Vitamin K and manganese support bone density and cartilage formation",
+      "skin": "Anthocyanins and Vitamin C protect against oxidative skin damage and ageing",
+      "heart": "Anthocyanins reduce LDL oxidation and blood pressure; linked to 32% lower heart attack risk",
+      "brain": "One of the best brain foods; anthocyanins delay brain ageing and improve memory by up to 2.5 years",
+      "digestion": "Fibre supports gut health; polyphenols improve beneficial gut bacteria diversity",
+      "immunity": "Anthocyanins, Vitamin C, and Vitamin E work synergistically to boost immunity",
+      "blood": "Vitamin K supports blood clotting; anthocyanins lower blood pressure"
+    },
+    "best_ways_to_eat": {
+      "raw": "Best eaten fresh for maximum anthocyanin content and Vitamin C",
+      "boiled": "Used in jams and compotes; cooking slightly reduces but concentrates antioxidants",
+      "steamed": "Rarely steamed; fresh or frozen are preferred",
+      "juice": "Fresh blueberry juice or added to smoothies provides concentrated anthocyanins",
+      "cooked": "Used in muffins, pies, pancakes, and sauces; frozen blueberries work as well as fresh"
+    },
+    "interesting_facts": [
+      "Blueberries are one of the few naturally blue foods in the world.",
+      "Wild blueberries (lowbush) contain twice the antioxidants of cultivated (highbush) blueberries.",
+      "North America produces about 90% of the world's blueberries.",
+      "Blueberries were consumed by Native Americans long before European colonisation.",
+      "Frozen blueberries retain almost all of their antioxidant potency, making them as healthy as fresh."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Lemon",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Lemon_-_image.jpg/500px-Lemon_-_image.jpg",
+      "scientific_name": "Citrus limon",
+      "color": "Yellow",
+      "season": "Year-round (peak Winter–Spring)"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 29,
+      "water_g": 89.0,
+      "protein_g": 1.1,
+      "carbohydrates_g": 9.3,
+      "sugar_g": 2.5,
+      "fibre_g": 2.8,
+      "fat_g": 0.3,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 1,
+      "vitamin_b1_mg": 0.04,
+      "vitamin_b2_mg": 0.02,
+      "vitamin_b3_mg": 0.10,
+      "vitamin_b5_mg": 0.19,
+      "vitamin_b6_mg": 0.08,
+      "vitamin_b7_mcg": 0.5,
+      "vitamin_b9_mcg": 11,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 53.0,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.15,
+      "vitamin_k_mcg": 0.0
+    },
+    "minerals": {
+      "calcium_mg": 26,
+      "iron_mg": 0.6,
+      "magnesium_mg": 8,
+      "phosphorus_mg": 16,
+      "potassium_mg": 138,
+      "sodium_mg": 2,
+      "zinc_mg": 0.06,
+      "copper_mg": 0.04,
+      "manganese_mg": 0.03,
+      "selenium_mcg": 0.4
+    },
+    "benefits": {
+      "eyes": "Vitamin C protects against cataracts; antioxidants prevent retinal damage",
+      "bones": "Vitamin C is essential for collagen in bone matrix; calcium supports bone density",
+      "skin": "High Vitamin C promotes collagen synthesis; citric acid acts as a natural exfoliant",
+      "heart": "Flavonoids reduce cholesterol; potassium lowers blood pressure",
+      "brain": "Vitamin C protects neurons; lemon scent has been shown to reduce stress hormones",
+      "digestion": "Citric acid stimulates digestive enzyme production; warm lemon water aids morning digestion",
+      "immunity": "Excellent source of Vitamin C for immune defence; antibacterial properties",
+      "blood": "Vitamin C dramatically enhances non-haem iron absorption from plant foods"
+    },
+    "best_ways_to_eat": {
+      "raw": "Juice squeezed fresh provides maximum Vitamin C; eat zest for flavonoids",
+      "boiled": "Preserved lemons are made by packing in salt and allowing to ferment",
+      "steamed": "Not typically steamed; fresh juice and zest are most used",
+      "juice": "Fresh lemon juice in water is a classic health drink; used widely in cooking",
+      "cooked": "Lemon zest and juice are used in baking, marinades, dressings, and sauces"
+    },
+    "interesting_facts": [
+      "Lemon trees can produce up to 600 pounds of lemons per year.",
+      "The limonin in lemons has been shown to combat cancer cells in laboratory studies.",
+      "During the 18th century, the British Royal Navy required ships to carry lemon juice to prevent scurvy.",
+      "Lemon trees originated in North-East India and were introduced to Europe via Persia and the Arab trade routes.",
+      "Lemon juice is a natural antibacterial and was historically used to purify drinking water."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Peach",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Autumn_Red_peaches.jpg/500px-Autumn_Red_peaches.jpg",
+      "scientific_name": "Prunus persica",
+      "color": "Orange, Yellow, Red",
+      "season": "Summer"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 39,
+      "water_g": 88.9,
+      "protein_g": 0.9,
+      "carbohydrates_g": 9.5,
+      "sugar_g": 8.4,
+      "fibre_g": 1.5,
+      "fat_g": 0.3,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 16,
+      "vitamin_b1_mg": 0.02,
+      "vitamin_b2_mg": 0.03,
+      "vitamin_b3_mg": 0.81,
+      "vitamin_b5_mg": 0.15,
+      "vitamin_b6_mg": 0.02,
+      "vitamin_b7_mcg": 0.7,
+      "vitamin_b9_mcg": 4,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 6.6,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.73,
+      "vitamin_k_mcg": 2.6
+    },
+    "minerals": {
+      "calcium_mg": 6,
+      "iron_mg": 0.3,
+      "magnesium_mg": 9,
+      "phosphorus_mg": 20,
+      "potassium_mg": 190,
+      "sodium_mg": 0,
+      "zinc_mg": 0.17,
+      "copper_mg": 0.07,
+      "manganese_mg": 0.07,
+      "selenium_mcg": 0.1
+    },
+    "benefits": {
+      "eyes": "Beta-carotene and lutein protect against cataracts and macular degeneration",
+      "bones": "Vitamin K and phosphorus support bone mineralisation",
+      "skin": "Vitamins A and C promote skin renewal and collagen production; used in cosmetics",
+      "heart": "Potassium regulates blood pressure; antioxidants reduce LDL oxidation",
+      "brain": "Vitamin B3 and antioxidants support cognitive function and mental clarity",
+      "digestion": "Fibre and sorbitol promote bowel regularity; can relieve constipation",
+      "immunity": "Vitamins A and C bolster immune defences",
+      "blood": "Iron and folate support red blood cell production; potassium regulates blood pressure"
+    },
+    "best_ways_to_eat": {
+      "raw": "Best eaten fresh and ripe for maximum nutrients and natural sweetness",
+      "boiled": "Poached peaches in syrup or wine make an elegant dessert",
+      "steamed": "Lightly steamed preserves most nutrients; used in baby food",
+      "juice": "Fresh peach juice or blended into smoothies",
+      "cooked": "Grilled, baked into pies and crumbles, or made into jams and preserves"
+    },
+    "interesting_facts": [
+      "Peaches originated in China, where they have been cultivated for over 4,000 years.",
+      "Peaches are closely related to almonds; the peach stone (pit) contains a kernel similar to an almond.",
+      "Georgia in the USA is nicknamed 'The Peach State', though California produces most US peaches.",
+      "A medium peach contains about 285ml of water, making it excellent for hydration.",
+      "White peaches are sweeter and lower in acid than yellow peaches."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Avocado",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Guacamole_REFMX.jpg/500px-Guacamole_REFMX.jpg",
+      "scientific_name": "Persea americana",
+      "color": "Green, Black",
+      "season": "Spring, Summer, Autumn"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 160,
+      "water_g": 73.2,
+      "protein_g": 2.0,
+      "carbohydrates_g": 8.5,
+      "sugar_g": 0.7,
+      "fibre_g": 6.7,
+      "fat_g": 14.7,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 7,
+      "vitamin_b1_mg": 0.07,
+      "vitamin_b2_mg": 0.13,
+      "vitamin_b3_mg": 1.74,
+      "vitamin_b5_mg": 1.39,
+      "vitamin_b6_mg": 0.26,
+      "vitamin_b7_mcg": 3.4,
+      "vitamin_b9_mcg": 81,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 10.0,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 2.07,
+      "vitamin_k_mcg": 21.0
+    },
+    "minerals": {
+      "calcium_mg": 12,
+      "iron_mg": 0.6,
+      "magnesium_mg": 29,
+      "phosphorus_mg": 52,
+      "potassium_mg": 485,
+      "sodium_mg": 7,
+      "zinc_mg": 0.64,
+      "copper_mg": 0.19,
+      "manganese_mg": 0.14,
+      "selenium_mcg": 0.4
+    },
+    "benefits": {
+      "eyes": "Lutein and zeaxanthin in avocado protect against macular degeneration and cataracts",
+      "bones": "Vitamin K is essential for bone protein carboxylation; magnesium supports bone density",
+      "skin": "Healthy monounsaturated fats deeply moisturise; Vitamin E protects skin from oxidative damage",
+      "heart": "Oleic acid (same as olive oil) reduces LDL and raises HDL cholesterol; high potassium lowers blood pressure",
+      "brain": "Folate reduces homocysteine; healthy fats support myelin sheath and overall brain function",
+      "digestion": "Richest fibre of any fruit; feeds gut microbiome and promotes bowel regularity",
+      "immunity": "Vitamin E, C, folate, and antioxidants strengthen immune function",
+      "blood": "More potassium than bananas; regulates blood pressure and sodium-potassium balance"
+    },
+    "best_ways_to_eat": {
+      "raw": "Best eaten raw — sliced on toast, in salads, or as guacamole",
+      "boiled": "Not suitable for boiling; heat ruins its texture and flavour",
+      "steamed": "Rarely steamed; raw is always preferred",
+      "juice": "Blended into smoothies adds creaminess and healthy fats",
+      "cooked": "Can be grilled or baked; avocado oil has a high smoke point for cooking"
+    },
+    "interesting_facts": [
+      "Avocado is technically a berry with a single large seed.",
+      "Avocados do not ripen on the tree — they only begin to ripen after being harvested.",
+      "The Hass avocado, the world's most popular variety, was discovered by Rudolph Hass in California in 1926.",
+      "Avocado trees need both male and female flowers to produce fruit, but each flower switches between sexes.",
+      "Avocados contain more potassium per 100g than bananas."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Coconut",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Coconut_on_white_background.jpg/500px-Coconut_on_white_background.jpg",
+      "scientific_name": "Cocos nucifera",
+      "color": "White (flesh), Brown (shell)",
+      "season": "Year-round (tropical)"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 354,
+      "water_g": 47.0,
+      "protein_g": 3.3,
+      "carbohydrates_g": 15.2,
+      "sugar_g": 6.2,
+      "fibre_g": 9.0,
+      "fat_g": 33.5,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 0,
+      "vitamin_b1_mg": 0.07,
+      "vitamin_b2_mg": 0.02,
+      "vitamin_b3_mg": 0.54,
+      "vitamin_b5_mg": 0.30,
+      "vitamin_b6_mg": 0.05,
+      "vitamin_b7_mcg": 0.5,
+      "vitamin_b9_mcg": 26,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 3.3,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.24,
+      "vitamin_k_mcg": 0.2
+    },
+    "minerals": {
+      "calcium_mg": 14,
+      "iron_mg": 2.4,
+      "magnesium_mg": 32,
+      "phosphorus_mg": 113,
+      "potassium_mg": 356,
+      "sodium_mg": 20,
+      "zinc_mg": 1.10,
+      "copper_mg": 0.44,
+      "manganese_mg": 1.50,
+      "selenium_mcg": 10.1
+    },
+    "benefits": {
+      "eyes": "Antioxidants in coconut protect eye cells from oxidative stress",
+      "bones": "Manganese and phosphorus are essential for bone formation and density",
+      "skin": "Lauric acid has antibacterial and moisturising properties for skin health",
+      "heart": "MCTs (medium-chain triglycerides) raise HDL cholesterol; lauric acid has antimicrobial effects",
+      "brain": "MCTs are converted to ketones, an alternative fuel source for the brain; studied in Alzheimer's",
+      "digestion": "Very high fibre content promotes bowel regularity and gut microbiome health",
+      "immunity": "Lauric acid converts to monolaurin, which has antiviral and antibacterial properties",
+      "blood": "Potassium and magnesium support healthy blood pressure regulation"
+    },
+    "best_ways_to_eat": {
+      "raw": "Fresh coconut flesh is nutritious and delicious eaten directly from the shell",
+      "boiled": "Coconut milk is used in curries, soups, and rice dishes across Asia",
+      "steamed": "Steamed coconut rice is a staple in many Asian cuisines",
+      "juice": "Coconut water is naturally isotonic and an excellent electrolyte drink",
+      "cooked": "Desiccated coconut, coconut oil, and coconut cream are widely used in baking and cooking"
+    },
+    "interesting_facts": [
+      "The coconut palm is called the 'Tree of Life' in tropical regions because almost every part of it is useful.",
+      "Coconut water can be used as an emergency substitute for intravenous fluid in extreme situations.",
+      "A coconut palm can produce up to 180 coconuts per year.",
+      "Coconuts were used by Pacific Island navigators as a source of food and water on long ocean voyages.",
+      "The word 'coconut' comes from the Portuguese word 'coco', meaning skull or head."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Guava",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Guava_ID.jpg/500px-Guava_ID.jpg",
+      "scientific_name": "Psidium guajava",
+      "color": "Green (skin), Pink/White (flesh)",
+      "season": "Winter, Spring"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 68,
+      "water_g": 80.8,
+      "protein_g": 2.6,
+      "carbohydrates_g": 14.3,
+      "sugar_g": 8.9,
+      "fibre_g": 5.4,
+      "fat_g": 1.0,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 31,
+      "vitamin_b1_mg": 0.07,
+      "vitamin_b2_mg": 0.04,
+      "vitamin_b3_mg": 1.08,
+      "vitamin_b5_mg": 0.45,
+      "vitamin_b6_mg": 0.11,
+      "vitamin_b7_mcg": 1.4,
+      "vitamin_b9_mcg": 49,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 228.3,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.73,
+      "vitamin_k_mcg": 2.6
+    },
+    "minerals": {
+      "calcium_mg": 18,
+      "iron_mg": 0.3,
+      "magnesium_mg": 22,
+      "phosphorus_mg": 40,
+      "potassium_mg": 417,
+      "sodium_mg": 2,
+      "zinc_mg": 0.23,
+      "copper_mg": 0.23,
+      "manganese_mg": 0.15,
+      "selenium_mcg": 0.6
+    },
+    "benefits": {
+      "eyes": "Vitamin A and beta-carotene protect the retina and support night vision",
+      "bones": "Calcium, phosphorus, and Vitamin K support strong bone structure",
+      "skin": "Contains the highest Vitamin C of any common fruit; dramatically boosts collagen production",
+      "heart": "Potassium and soluble fibre lower blood pressure and cholesterol respectively",
+      "brain": "Vitamin B6 and folate support neurotransmitter production and mood",
+      "digestion": "Highest fibre of common fruits; seeds act as excellent laxatives",
+      "immunity": "Extraordinary Vitamin C content — over 4× that of oranges — provides powerful immune support",
+      "blood": "Folate prevents anaemia; potassium and magnesium regulate blood pressure"
+    },
+    "best_ways_to_eat": {
+      "raw": "Best eaten fresh including the skin and seeds for maximum fibre and Vitamin C",
+      "boiled": "Used in jams, jellies, and guava paste (goiabada in Brazil)",
+      "steamed": "Lightly steamed in some traditional preparations",
+      "juice": "Fresh guava juice is rich in Vitamin C and antioxidants; popular in tropical regions",
+      "cooked": "Guava paste and cheese (pão de queijo) is a classic Brazilian combination"
+    },
+    "interesting_facts": [
+      "Guava contains 4 times more Vitamin C than oranges, making it one of the richest sources of Vitamin C among all fruits.",
+      "India is the world's largest producer of guava.",
+      "Both the fruit and the leaves of guava are used medicinally in traditional medicine systems.",
+      "Guava leaves tea is commonly used in many countries to treat diarrhoea.",
+      "The guava tree is highly resilient and can survive drought conditions."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Cherry",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cherry_Stella444.jpg/500px-Cherry_Stella444.jpg",
+      "scientific_name": "Prunus avium",
+      "color": "Deep Red, Dark Purple",
+      "season": "Summer"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 63,
+      "water_g": 82.2,
+      "protein_g": 1.1,
+      "carbohydrates_g": 16.0,
+      "sugar_g": 12.8,
+      "fibre_g": 2.1,
+      "fat_g": 0.2,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 3,
+      "vitamin_b1_mg": 0.03,
+      "vitamin_b2_mg": 0.04,
+      "vitamin_b3_mg": 0.15,
+      "vitamin_b5_mg": 0.20,
+      "vitamin_b6_mg": 0.05,
+      "vitamin_b7_mcg": 0.9,
+      "vitamin_b9_mcg": 4,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 7.0,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.07,
+      "vitamin_k_mcg": 2.1
+    },
+    "minerals": {
+      "calcium_mg": 13,
+      "iron_mg": 0.4,
+      "magnesium_mg": 11,
+      "phosphorus_mg": 21,
+      "potassium_mg": 222,
+      "sodium_mg": 0,
+      "zinc_mg": 0.07,
+      "copper_mg": 0.06,
+      "manganese_mg": 0.07,
+      "selenium_mcg": 0.0
+    },
+    "benefits": {
+      "eyes": "Anthocyanins and carotenoids protect the retina from oxidative damage",
+      "bones": "Anthocyanins reduce bone loss; Vitamin C supports collagen in bone matrix",
+      "skin": "Anthocyanins and Vitamin C protect skin and promote collagen synthesis",
+      "heart": "Anthocyanins reduce inflammation and LDL oxidation; potassium regulates blood pressure",
+      "brain": "Anthocyanins cross the blood-brain barrier; associated with improved memory and cognitive function",
+      "digestion": "Fibre supports bowel regularity; cherries have mild laxative properties",
+      "immunity": "Vitamin C and anthocyanins strengthen immune function and reduce inflammation",
+      "blood": "Cherries lower uric acid levels, making them beneficial for gout sufferers"
+    },
+    "best_ways_to_eat": {
+      "raw": "Best eaten fresh for maximum anthocyanin content and Vitamin C",
+      "boiled": "Used in jams, compotes, and sauces; cooking concentrates flavour",
+      "steamed": "Rarely steamed; fresh or preserved are preferred methods",
+      "juice": "Tart cherry juice is widely consumed for sleep and anti-inflammatory benefits",
+      "cooked": "Used in pies, clafoutis, Black Forest cake, and cherry brandy"
+    },
+    "interesting_facts": [
+      "Tart cherries contain one of the highest natural sources of melatonin, supporting sleep quality.",
+      "It takes a cherry tree about 3–4 years from planting to produce its first fruit.",
+      "Turkey is the world's largest producer of cherries.",
+      "Cherry trees have short but spectacular blossoming seasons; cherry blossom festivals (Hanami) are held across Japan.",
+      "Tart cherries have been shown in studies to reduce muscle soreness after exercise by up to 22%."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Pear",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Pears.jpg/500px-Pears.jpg",
+      "scientific_name": "Pyrus communis",
+      "color": "Green, Yellow, Red",
+      "season": "Autumn"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 57,
+      "water_g": 83.9,
+      "protein_g": 0.4,
+      "carbohydrates_g": 15.2,
+      "sugar_g": 9.8,
+      "fibre_g": 3.1,
+      "fat_g": 0.1,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 1,
+      "vitamin_b1_mg": 0.01,
+      "vitamin_b2_mg": 0.03,
+      "vitamin_b3_mg": 0.16,
+      "vitamin_b5_mg": 0.05,
+      "vitamin_b6_mg": 0.03,
+      "vitamin_b7_mcg": 0.4,
+      "vitamin_b9_mcg": 7,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 4.3,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.12,
+      "vitamin_k_mcg": 4.4
+    },
+    "minerals": {
+      "calcium_mg": 9,
+      "iron_mg": 0.2,
+      "magnesium_mg": 7,
+      "phosphorus_mg": 12,
+      "potassium_mg": 116,
+      "sodium_mg": 1,
+      "zinc_mg": 0.10,
+      "copper_mg": 0.08,
+      "manganese_mg": 0.05,
+      "selenium_mcg": 0.1
+    },
+    "benefits": {
+      "eyes": "Vitamin C and antioxidants protect eye cells from oxidative damage",
+      "bones": "Vitamin K and boron support bone density and calcium metabolism",
+      "skin": "Vitamin C supports collagen production; high water content hydrates skin",
+      "heart": "Soluble fibre (pectin) lowers LDL cholesterol; potassium regulates blood pressure",
+      "brain": "Antioxidants and folate support cognitive health",
+      "digestion": "One of the highest-fibre fruits; pectin acts as a prebiotic for gut bacteria",
+      "immunity": "Vitamin C and antioxidants support immune system function",
+      "blood": "Folate and iron support red blood cell production; pectin may regulate blood sugar"
+    },
+    "best_ways_to_eat": {
+      "raw": "Best eaten ripe with skin on for maximum fibre and antioxidants",
+      "boiled": "Poached pears in red wine or syrup are a classic European dessert",
+      "steamed": "Steamed pear is used as a traditional Chinese remedy for coughs",
+      "juice": "Fresh pear juice is mildly sweet and gently hydrating",
+      "cooked": "Baked into tarts, crumbles, and cakes; pairs well with cheese"
+    },
+    "interesting_facts": [
+      "Unlike most fruits, pears ripen best off the tree — the texture and flavour improve after picking.",
+      "China produces over 70% of the world's pears.",
+      "The pear is one of the oldest cultivated fruits, with evidence of cultivation dating back 3,000 years in China.",
+      "There are over 3,000 known varieties of pears worldwide.",
+      "The phrase 'going pear-shaped' (meaning something went wrong) originated in the RAF, referring to a poorly flown loop manoeuvre."
+    ]
+  }
+]
