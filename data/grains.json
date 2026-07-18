@@ -1,0 +1,1122 @@
+[
+  {
+    "basic_information": {
+      "name": "Wheat",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Wheat_close-up.JPG/500px-Wheat_close-up.JPG",
+      "scientific_name": "Triticum aestivum",
+      "color": "Golden Brown",
+      "season": "Harvested Summer"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 327,
+      "water_g": 13.0,
+      "protein_g": 13.7,
+      "carbohydrates_g": 71.2,
+      "sugar_g": 0.4,
+      "fibre_g": 12.2,
+      "fat_g": 1.5,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 0,
+      "vitamin_b1_mg": 0.43,
+      "vitamin_b2_mg": 0.12,
+      "vitamin_b3_mg": 8.74,
+      "vitamin_b5_mg": 0.95,
+      "vitamin_b6_mg": 0.30,
+      "vitamin_b7_mcg": 1.5,
+      "vitamin_b9_mcg": 44,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 0,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 1.01,
+      "vitamin_k_mcg": 1.9
+    },
+    "minerals": {
+      "calcium_mg": 34,
+      "iron_mg": 4.6,
+      "magnesium_mg": 138,
+      "phosphorus_mg": 288,
+      "potassium_mg": 363,
+      "sodium_mg": 2,
+      "zinc_mg": 2.65,
+      "copper_mg": 0.38,
+      "manganese_mg": 1.33,
+      "selenium_mcg": 70.0
+    },
+    "benefits": {
+      "eyes": "Selenium protects the lens from free radical damage",
+      "bones": "Phosphorus and magnesium support bone mineralisation",
+      "skin": "B vitamins and minerals support skin health and repair",
+      "heart": "Beta-glucan fibre lowers LDL cholesterol; magnesium regulates heart rhythm",
+      "brain": "B vitamins support neurotransmitter synthesis and cognitive function",
+      "digestion": "High fibre content promotes bowel health and feeds beneficial gut bacteria",
+      "immunity": "Zinc, selenium, and B vitamins enhance immune defences",
+      "blood": "Iron supports red blood cell formation; B vitamins aid oxygen transport"
+    },
+    "best_ways_to_eat": {
+      "raw": "Not typically eaten raw; sprouted wheat berries can be eaten raw",
+      "boiled": "Wheat berries can be boiled; used in salads and porridges",
+      "steamed": "Steaming retains more nutrients than boiling",
+      "juice": "Wheatgrass juice is consumed as a health supplement",
+      "cooked": "Ground into flour for bread and pasta; most common form of consumption"
+    },
+    "interesting_facts": [
+      "Wheat is the most widely consumed grain in the world, providing about 20% of global calories.",
+      "Bread made from whole wheat contains all three parts of the grain: bran, germ, and endosperm.",
+      "The gluten network in wheat provides the elasticity that makes bread rise.",
+      "Sprouted wheat contains higher levels of antioxidants and lower antinutrients than unsprouted grain.",
+      "Wheat production dates back over 10,000 years to the Fertile Crescent."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Rice",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Camargue_rice.jpg/500px-Camargue_rice.jpg",
+      "scientific_name": "Oryza sativa",
+      "color": "White, Brown, Black",
+      "season": "Harvested Autumn"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 130,
+      "water_g": 12.0,
+      "protein_g": 2.7,
+      "carbohydrates_g": 28.6,
+      "sugar_g": 0.1,
+      "fibre_g": 0.4,
+      "fat_g": 0.3,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 0,
+      "vitamin_b1_mg": 0.08,
+      "vitamin_b2_mg": 0.02,
+      "vitamin_b3_mg": 1.62,
+      "vitamin_b5_mg": 0.11,
+      "vitamin_b6_mg": 0.15,
+      "vitamin_b7_mcg": 0.4,
+      "vitamin_b9_mcg": 20,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 0,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.13,
+      "vitamin_k_mcg": 0.1
+    },
+    "minerals": {
+      "calcium_mg": 10,
+      "iron_mg": 0.8,
+      "magnesium_mg": 25,
+      "phosphorus_mg": 115,
+      "potassium_mg": 115,
+      "sodium_mg": 1,
+      "zinc_mg": 0.63,
+      "copper_mg": 0.12,
+      "manganese_mg": 0.79,
+      "selenium_mcg": 15.1
+    },
+    "benefits": {
+      "eyes": "Thiamine in enriched rice supports eye health and prevents night blindness",
+      "bones": "Phosphorus and manganese contribute to bone structure",
+      "skin": "B vitamins support skin cell turnover and repair",
+      "heart": "Brown rice bran contains compounds that lower cholesterol",
+      "brain": "Manganese and B vitamins support cognitive function and energy metabolism",
+      "digestion": "White rice is easily digestible; brown rice provides fibre for bowel health",
+      "immunity": "Selenium and B vitamins boost immune function",
+      "blood": "Iron in enriched rice helps prevent anaemia; manganese aids oxygen transport"
+    },
+    "best_ways_to_eat": {
+      "raw": "Not eaten raw; rice must be cooked",
+      "boiled": "Most common cooking method; simple and versatile",
+      "steamed": "Retains slightly more nutrients than boiling",
+      "juice": "Not typically juiced; rice water is used in traditional medicine",
+      "cooked": "Used in risotto, stir-fries, pilaf, sushi, and as a staple side dish"
+    },
+    "interesting_facts": [
+      "Rice feeds over 3 billion people globally and provides more calories per capita than any other grain.",
+      "White rice is polished to remove the bran and germ; brown rice retains these nutrient-dense layers.",
+      "Basmati and jasmine rice are long-grain aromatic varieties popular in Asian cuisine.",
+      "Wild rice is technically not rice but the seed of an aquatic grass.",
+      "Rice bran oil is increasingly used as a heart-healthy cooking oil."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Oats",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Avena_sativa_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-068.jpg/500px-Avena_sativa_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-068.jpg",
+      "scientific_name": "Avena sativa",
+      "color": "Tan, Brown",
+      "season": "Harvested Autumn"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 389,
+      "water_g": 8.3,
+      "protein_g": 16.9,
+      "carbohydrates_g": 66.3,
+      "sugar_g": 0.0,
+      "fibre_g": 10.6,
+      "fat_g": 6.9,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 0,
+      "vitamin_b1_mg": 0.76,
+      "vitamin_b2_mg": 0.15,
+      "vitamin_b3_mg": 0.96,
+      "vitamin_b5_mg": 1.35,
+      "vitamin_b6_mg": 0.12,
+      "vitamin_b7_mcg": 4.9,
+      "vitamin_b9_mcg": 56,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 0,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 1.44,
+      "vitamin_k_mcg": 0.3
+    },
+    "minerals": {
+      "calcium_mg": 54,
+      "iron_mg": 4.3,
+      "magnesium_mg": 177,
+      "phosphorus_mg": 523,
+      "potassium_mg": 429,
+      "sodium_mg": 2,
+      "zinc_mg": 4.72,
+      "copper_mg": 0.62,
+      "manganese_mg": 4.91,
+      "selenium_mcg": 53.6
+    },
+    "benefits": {
+      "eyes": "Lutein and zeaxanthin in oats protect the retina",
+      "bones": "Manganese and phosphorus are essential for bone density",
+      "skin": "Beta-glucan promotes hydration and healing of damaged skin",
+      "heart": "Beta-glucan fibre lowers LDL cholesterol and reduces blood pressure significantly",
+      "brain": "B vitamins support neurotransmitter production and cognitive function",
+      "digestion": "Beta-glucan fibre feeds healthy gut bacteria and promotes regular bowel movements",
+      "immunity": "Beta-glucan enhances immune cell activity; antioxidants fight inflammation",
+      "blood": "Iron and copper support red blood cell production and haemoglobin synthesis"
+    },
+    "best_ways_to_eat": {
+      "raw": "Oats are not typically eaten raw; overnight oats soften overnight",
+      "boiled": "Boiled oatmeal is the classic breakfast preparation",
+      "steamed": "Steaming takes longer but retains maximum nutrients",
+      "juice": "Oat milk is a popular plant-based milk alternative",
+      "cooked": "Steel-cut or rolled oats in porridge; used in baking and granola"
+    },
+    "interesting_facts": [
+      "Oats are naturally gluten-free, though some varieties may be contaminated during processing.",
+      "The soluble fibre in oats (beta-glucan) can lower cholesterol by 5–10% when consumed regularly.",
+      "Oats were domesticated much later than wheat or barley, around 1,000 BCE.",
+      "Colloidal oatmeal (finely ground oats) is FDA-approved for treating skin conditions like eczema.",
+      "Scottish and Irish cuisines have traditionally relied on oats as a staple grain."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Barley",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Gerste_Gerstenfeld.jpg/500px-Gerste_Gerstenfeld.jpg",
+      "scientific_name": "Hordeum vulgare",
+      "color": "Golden Brown",
+      "season": "Harvested Summer"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 354,
+      "water_g": 9.4,
+      "protein_g": 12.5,
+      "carbohydrates_g": 73.5,
+      "sugar_g": 0.2,
+      "fibre_g": 17.3,
+      "fat_g": 2.3,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 22,
+      "vitamin_b1_mg": 0.65,
+      "vitamin_b2_mg": 0.29,
+      "vitamin_b3_mg": 4.60,
+      "vitamin_b5_mg": 0.28,
+      "vitamin_b6_mg": 0.32,
+      "vitamin_b7_mcg": 2.9,
+      "vitamin_b9_mcg": 23,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 0,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.49,
+      "vitamin_k_mcg": 2.2
+    },
+    "minerals": {
+      "calcium_mg": 33,
+      "iron_mg": 3.6,
+      "magnesium_mg": 79,
+      "phosphorus_mg": 264,
+      "potassium_mg": 280,
+      "sodium_mg": 12,
+      "zinc_mg": 2.77,
+      "copper_mg": 0.45,
+      "manganese_mg": 1.94,
+      "selenium_mcg": 37.7
+    },
+    "benefits": {
+      "eyes": "Selenium protects the lens and reduces risk of cataracts",
+      "bones": "Phosphorus, magnesium, and manganese support bone strength",
+      "skin": "B vitamins and trace minerals support skin integrity",
+      "heart": "Beta-glucan fibre lowers cholesterol; magnesium regulates blood pressure",
+      "brain": "Niacin and B vitamins support neurological health and mood",
+      "digestion": "Highest fibre content of all grains; promotes bowel regularity and prebiotic effects",
+      "immunity": "Selenium, zinc, and B vitamins enhance immune function",
+      "blood": "Iron supports haemoglobin production; copper aids iron transport"
+    },
+    "best_ways_to_eat": {
+      "raw": "Not eaten raw; barley grains must be cooked",
+      "boiled": "Pearl barley is boiled in soups and stews",
+      "steamed": "Retains more nutrients than boiling when steamed",
+      "juice": "Barley water is a traditional remedy for digestive issues and colds",
+      "cooked": "Used in risotto, soups, pilafs, and salads; also malted for beer"
+    },
+    "interesting_facts": [
+      "Barley is one of the oldest cultivated cereals, with evidence of use dating back 11,000 years.",
+      "Pearl barley has been polished to remove the bran and germ; hulled barley retains these nutrients.",
+      "Barley malt is used in brewing beer and distilling whiskey.",
+      "Barley has the highest beta-glucan fibre content of any grain.",
+      "Ancient Greek athletes relied on barley as a staple food for strength and endurance."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Corn (Maize)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Corn_cob_and_corn_seeds.jpg/500px-Corn_cob_and_corn_seeds.jpg",
+      "scientific_name": "Zea mays",
+      "color": "Yellow, White, Purple",
+      "season": "Harvested Autumn"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 365,
+      "water_g": 10.4,
+      "protein_g": 9.4,
+      "carbohydrates_g": 74.3,
+      "sugar_g": 1.9,
+      "fibre_g": 7.3,
+      "fat_g": 4.7,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 97,
+      "vitamin_b1_mg": 0.39,
+      "vitamin_b2_mg": 0.20,
+      "vitamin_b3_mg": 3.63,
+      "vitamin_b5_mg": 0.42,
+      "vitamin_b6_mg": 0.62,
+      "vitamin_b7_mcg": 0.8,
+      "vitamin_b9_mcg": 19,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 0,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 1.94,
+      "vitamin_k_mcg": 0.3
+    },
+    "minerals": {
+      "calcium_mg": 7,
+      "iron_mg": 2.71,
+      "magnesium_mg": 127,
+      "phosphorus_mg": 210,
+      "potassium_mg": 287,
+      "sodium_mg": 35,
+      "zinc_mg": 2.21,
+      "copper_mg": 0.31,
+      "manganese_mg": 0.49,
+      "selenium_mcg": 15.1
+    },
+    "benefits": {
+      "eyes": "Lutein and zeaxanthin in yellow and purple corn protect against macular degeneration",
+      "bones": "Phosphorus and magnesium support bone formation and density",
+      "skin": "Vitamin E and antioxidants protect skin from UV damage",
+      "heart": "Linoleic acid (omega-6) supports heart health; magnesium regulates blood pressure",
+      "brain": "Pentanoic acid in corn supports cognitive function",
+      "digestion": "Fibre content promotes bowel regularity and feeds healthy gut bacteria",
+      "immunity": "Vitamin E, folate, and antioxidants enhance immune response",
+      "blood": "Iron supports red blood cell production; folate prevents anaemia"
+    },
+    "best_ways_to_eat": {
+      "raw": "Fresh sweet corn kernels can be eaten raw",
+      "boiled": "Traditional method; boiling sweetens the corn",
+      "steamed": "Retains more nutrients than boiling",
+      "juice": "Cornstarch water used in traditional medicine",
+      "cooked": "Roasted, grilled, popped as popcorn, made into flour, polenta, or tortillas"
+    },
+    "interesting_facts": [
+      "Corn originated in Mexico over 9,000 years ago and was domesticated from teosinte.",
+      "Corn is the most produced cereal crop globally, with over 1 billion tons harvested annually.",
+      "Popcorn is a whole grain when air-popped and contains high levels of antioxidants.",
+      "Corn was the only major grain domesticated by Indigenous peoples of the Americas.",
+      "A single ear of corn typically contains about 800 kernels arranged in 16 rows."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Quinoa",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Uncooked_quinoa.jpg/500px-Uncooked_quinoa.jpg",
+      "scientific_name": "Chenopodium quinoa",
+      "color": "White, Red, Black",
+      "season": "Harvested Autumn"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 368,
+      "water_g": 13.3,
+      "protein_g": 14.1,
+      "carbohydrates_g": 64.2,
+      "sugar_g": 1.6,
+      "fibre_g": 7.0,
+      "fat_g": 6.3,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 0,
+      "vitamin_b1_mg": 0.36,
+      "vitamin_b2_mg": 0.32,
+      "vitamin_b3_mg": 1.52,
+      "vitamin_b5_mg": 0.77,
+      "vitamin_b6_mg": 0.39,
+      "vitamin_b7_mcg": 0.5,
+      "vitamin_b9_mcg": 78,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 0,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 2.44,
+      "vitamin_k_mcg": 0
+    },
+    "minerals": {
+      "calcium_mg": 47,
+      "iron_mg": 8.0,
+      "magnesium_mg": 197,
+      "phosphorus_mg": 281,
+      "potassium_mg": 563,
+      "sodium_mg": 5,
+      "zinc_mg": 3.10,
+      "copper_mg": 0.59,
+      "manganese_mg": 1.20,
+      "selenium_mcg": 8.5
+    },
+    "benefits": {
+      "eyes": "Vitamin E and antioxidants protect eye tissue from oxidative damage",
+      "bones": "Magnesium, phosphorus, and manganese are essential for bone mineralisation",
+      "skin": "Vitamin E and riboflavin support collagen synthesis and skin repair",
+      "heart": "Magnesium regulates blood pressure; unsaturated fats support cardiovascular health",
+      "brain": "All 9 essential amino acids support neurotransmitter synthesis and cognition",
+      "digestion": "High fibre supports digestive health and blood sugar regulation",
+      "immunity": "All essential amino acids, iron, zinc, and vitamin E boost immune function",
+      "blood": "Iron and lysine support red blood cell production and oxygen transport"
+    },
+    "best_ways_to_eat": {
+      "raw": "Sprouted quinoa can be eaten raw in salads",
+      "boiled": "Rinse before boiling to remove saponins; simmer 15 minutes",
+      "steamed": "Steaming takes longer but retains slightly more nutrients",
+      "juice": "Not typically juiced; used in protein shakes",
+      "cooked": "Used as a grain base, in pilafs, salads, porridges, or as a flour alternative"
+    },
+    "interesting_facts": [
+      "Quinoa is not technically a grain but a pseudo-cereal, belonging to the same family as spinach.",
+      "It is one of the few plant foods that contains all 9 essential amino acids, making it a complete protein.",
+      "Quinoa was considered 'the gold of the Incas' and was a staple crop in the Andes.",
+      "Peru and Bolivia produce over 80% of the world's quinoa.",
+      "Quinoa seeds must be rinsed to remove saponins, which are bitter and can reduce nutrient absorption."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Millet",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Millet_grains.jpg/500px-Millet_grains.jpg",
+      "scientific_name": "Panicum miliaceum",
+      "color": "Yellow, White, Brown",
+      "season": "Harvested Autumn"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 378,
+      "water_g": 8.7,
+      "protein_g": 11.0,
+      "carbohydrates_g": 72.9,
+      "sugar_g": 1.3,
+      "fibre_g": 8.5,
+      "fat_g": 4.2,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 0,
+      "vitamin_b1_mg": 0.42,
+      "vitamin_b2_mg": 0.29,
+      "vitamin_b3_mg": 4.72,
+      "vitamin_b5_mg": 0.86,
+      "vitamin_b6_mg": 0.38,
+      "vitamin_b7_mcg": 1.8,
+      "vitamin_b9_mcg": 85,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 0,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.37,
+      "vitamin_k_mcg": 0.9
+    },
+    "minerals": {
+      "calcium_mg": 8,
+      "iron_mg": 6.0,
+      "magnesium_mg": 114,
+      "phosphorus_mg": 285,
+      "potassium_mg": 195,
+      "sodium_mg": 3,
+      "zinc_mg": 1.68,
+      "copper_mg": 0.38,
+      "manganese_mg": 0.27,
+      "selenium_mcg": 3.7
+    },
+    "benefits": {
+      "eyes": "B vitamins support eye health and reduce risk of vision problems",
+      "bones": "Phosphorus and magnesium support bone density and strength",
+      "skin": "B vitamins aid skin cell turnover and healing",
+      "heart": "Magnesium regulates heart rhythm; fibre lowers cholesterol",
+      "brain": "B vitamins support energy production and neurotransmitter synthesis",
+      "digestion": "High fibre promotes bowel regularity and feeds healthy gut bacteria",
+      "immunity": "Iron, zinc, and B vitamins enhance immune function",
+      "blood": "Iron supports red blood cell production and prevents anaemia"
+    },
+    "best_ways_to_eat": {
+      "raw": "Not typically eaten raw; can be sprouted",
+      "boiled": "Simmer 25–30 minutes until fluffy",
+      "steamed": "Retains slightly more nutrients than boiling",
+      "juice": "Not typically juiced; used in porridges",
+      "cooked": "Used as a grain base, in porridges, flatbreads, or ground into flour"
+    },
+    "interesting_facts": [
+      "Millet is one of the oldest cultivated crops, domesticated around 5,000 years ago in Africa and Asia.",
+      "It is naturally gluten-free and easy to digest, making it suitable for sensitive stomachs.",
+      "Millet is drought-tolerant and a crucial crop in arid regions of Africa and Asia.",
+      "In India, millet is known as jowar and is used to make rotli and other traditional breads.",
+      "Millet contains compounds that may have anti-inflammatory properties."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Rye",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Rye.jpg/500px-Rye.jpg",
+      "scientific_name": "Secale cereale",
+      "color": "Brown, Dark",
+      "season": "Harvested Summer"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 338,
+      "water_g": 10.0,
+      "protein_g": 10.0,
+      "carbohydrates_g": 76.0,
+      "sugar_g": 0.1,
+      "fibre_g": 15.1,
+      "fat_g": 1.6,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 0,
+      "vitamin_b1_mg": 0.26,
+      "vitamin_b2_mg": 0.24,
+      "vitamin_b3_mg": 4.27,
+      "vitamin_b5_mg": 0.11,
+      "vitamin_b6_mg": 0.28,
+      "vitamin_b7_mcg": 0.5,
+      "vitamin_b9_mcg": 15,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 0,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.13,
+      "vitamin_k_mcg": 0
+    },
+    "minerals": {
+      "calcium_mg": 24,
+      "iron_mg": 2.64,
+      "magnesium_mg": 71,
+      "phosphorus_mg": 286,
+      "potassium_mg": 510,
+      "sodium_mg": 1,
+      "zinc_mg": 2.65,
+      "copper_mg": 0.21,
+      "manganese_mg": 1.84,
+      "selenium_mcg": 50.3
+    },
+    "benefits": {
+      "eyes": "Selenium protects the lens and retina from oxidative damage",
+      "bones": "Phosphorus and manganese support bone mineralisation and strength",
+      "skin": "B vitamins and minerals support skin health and repair",
+      "heart": "High fibre lowers LDL cholesterol; potassium regulates blood pressure",
+      "brain": "B vitamins support cognitive function and energy metabolism",
+      "digestion": "Highest fibre content of all common grains; exceptional for gut health",
+      "immunity": "Selenium and zinc strengthen immune defences",
+      "blood": "Iron and copper support red blood cell formation and oxygen transport"
+    },
+    "best_ways_to_eat": {
+      "raw": "Rye berries can be sprouted and eaten raw",
+      "boiled": "Rye berries take 1–2 hours to soften when boiled",
+      "steamed": "Steaming is less common but retains more nutrients",
+      "juice": "Rye grass juice is consumed for its nutrient density",
+      "cooked": "Ground into flour for dark, dense rye bread; used in porridges"
+    },
+    "interesting_facts": [
+      "Rye is closely related to wheat but is more cold-hardy and grows well in cool climates.",
+      "Rye bread, popular in Northern Europe and Russia, has a distinctive sour taste from fermentation.",
+      "Rye contains a higher proportion of insoluble fibre than other grains.",
+      "Rye was historically used as the primary grain for bread in Eastern Europe and Scandinavia.",
+      "Ergot, a fungal disease, historically affected rye crops and caused outbreaks of ergotism in medieval times."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Sorghum",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sorghum_bicolor1.jpg/500px-Sorghum_bicolor1.jpg",
+      "scientific_name": "Sorghum bicolor",
+      "color": "Brown, Red, White",
+      "season": "Harvested Autumn"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 329,
+      "water_g": 8.8,
+      "protein_g": 8.7,
+      "carbohydrates_g": 73.3,
+      "sugar_g": 0.0,
+      "fibre_g": 6.7,
+      "fat_g": 3.3,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 0,
+      "vitamin_b1_mg": 0.16,
+      "vitamin_b2_mg": 0.13,
+      "vitamin_b3_mg": 2.93,
+      "vitamin_b5_mg": 0.67,
+      "vitamin_b6_mg": 0.46,
+      "vitamin_b7_mcg": 0.8,
+      "vitamin_b9_mcg": 49,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 0,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 1.33,
+      "vitamin_k_mcg": 0
+    },
+    "minerals": {
+      "calcium_mg": 28,
+      "iron_mg": 4.4,
+      "magnesium_mg": 165,
+      "phosphorus_mg": 287,
+      "potassium_mg": 363,
+      "sodium_mg": 6,
+      "zinc_mg": 1.67,
+      "copper_mg": 0.38,
+      "manganese_mg": 0.73,
+      "selenium_mcg": 9.8
+    },
+    "benefits": {
+      "eyes": "Vitamin E and antioxidants protect the eyes from UV damage",
+      "bones": "Magnesium, phosphorus, and manganese support bone mineralisation",
+      "skin": "Vitamin E and polyphenols protect skin from oxidative stress",
+      "heart": "Magnesium regulates blood pressure and heart rhythm; fibre lowers cholesterol",
+      "brain": "B vitamins support neurotransmitter production and cognitive function",
+      "digestion": "Fibre promotes bowel regularity and feeds beneficial gut bacteria",
+      "immunity": "Iron, zinc, and antioxidants enhance immune defences",
+      "blood": "Iron and copper support red blood cell production and oxygen transport"
+    },
+    "best_ways_to_eat": {
+      "raw": "Not typically eaten raw; can be sprouted",
+      "boiled": "Simmer 45–60 minutes until tender",
+      "steamed": "Takes longer than boiling but retains more nutrients",
+      "juice": "Not typically juiced; used in beverages in some cultures",
+      "cooked": "Used as a grain base, in porridges, sorghum syrup, or ground into flour"
+    },
+    "interesting_facts": [
+      "Sorghum is the fifth most important cereal crop globally, after rice, wheat, corn, and barley.",
+      "It is naturally gluten-free, making it suitable for those with coeliac disease.",
+      "Sorghum is highly drought-tolerant and is crucial in arid and semi-arid regions of Africa and Asia.",
+      "Sorghum syrup, made from the juice of sorghum stalks, was a common sweetener before refined sugar.",
+      "Sorghum contains tannins in some varieties, which have antioxidant properties but can reduce nutrient absorption."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Buckwheat",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Buckwheat.jpg/500px-Buckwheat.jpg",
+      "scientific_name": "Fagopyrum esculentum",
+      "color": "Brown, Black",
+      "season": "Harvested Autumn"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 343,
+      "water_g": 10.1,
+      "protein_g": 13.3,
+      "carbohydrates_g": 71.5,
+      "sugar_g": 0.0,
+      "fibre_g": 10.0,
+      "fat_g": 3.4,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 0,
+      "vitamin_b1_mg": 0.10,
+      "vitamin_b2_mg": 0.43,
+      "vitamin_b3_mg": 7.02,
+      "vitamin_b5_mg": 1.23,
+      "vitamin_b6_mg": 0.40,
+      "vitamin_b7_mcg": 0.7,
+      "vitamin_b9_mcg": 30,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 0,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.08,
+      "vitamin_k_mcg": 0
+    },
+    "minerals": {
+      "calcium_mg": 18,
+      "iron_mg": 2.4,
+      "magnesium_mg": 231,
+      "phosphorus_mg": 347,
+      "potassium_mg": 460,
+      "sodium_mg": 1,
+      "zinc_mg": 2.44,
+      "copper_mg": 0.85,
+      "manganese_mg": 1.30,
+      "selenium_mcg": 8.3
+    },
+    "benefits": {
+      "eyes": "Copper and vitamin E protect eye tissue from oxidative damage",
+      "bones": "Magnesium, phosphorus, and manganese support bone density",
+      "skin": "Flavonoids and B vitamins promote skin health and repair",
+      "heart": "Rutin and magnesium lower blood pressure and reduce cardiovascular inflammation",
+      "brain": "Rutin has neuroprotective properties; B vitamins support cognition",
+      "digestion": "High fibre and resistant starch feed beneficial gut bacteria",
+      "immunity": "Copper, zinc, and antioxidants enhance immune function",
+      "blood": "Iron and copper support red blood cell production; rutin strengthens blood vessels"
+    },
+    "best_ways_to_eat": {
+      "raw": "Sprouted buckwheat can be eaten raw in salads",
+      "boiled": "Not typically boiled; toasted groats are preferred",
+      "steamed": "Retains more nutrients than boiling",
+      "juice": "Buckwheat sprouts are juiced for maximum nutrients",
+      "cooked": "Roasted groats in porridges, pilafs, noodles, or ground into flour"
+    },
+    "interesting_facts": [
+      "Buckwheat is not technically a grain but a pseudo-cereal, as it's the seed of a plant related to rhubarb.",
+      "It is naturally gluten-free and easy to digest, making it suitable for sensitive digestion.",
+      "Buckwheat contains rutin, a bioflavonoid that strengthens blood vessel walls.",
+      "Buckwheat is a key ingredient in Japanese soba noodles and Russian kasha.",
+      "Buckwheat is a fast-growing crop that can be used as a cover crop to improve soil health."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Amaranth",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Amaranthus_-_grain_%28Kiwiensis%29.JPG/500px-Amaranthus_-_grain_%28Kiwiensis%29.JPG",
+      "scientific_name": "Amaranthus hypochondriacus",
+      "color": "Cream, White",
+      "season": "Harvested Autumn"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 371,
+      "water_g": 11.3,
+      "protein_g": 13.6,
+      "carbohydrates_g": 65.1,
+      "sugar_g": 1.7,
+      "fibre_g": 6.7,
+      "fat_g": 7.0,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 0,
+      "vitamin_b1_mg": 0.12,
+      "vitamin_b2_mg": 0.20,
+      "vitamin_b3_mg": 0.92,
+      "vitamin_b5_mg": 1.46,
+      "vitamin_b6_mg": 0.59,
+      "vitamin_b7_mcg": 0.6,
+      "vitamin_b9_mcg": 88,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 4.6,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 1.19,
+      "vitamin_k_mcg": 0
+    },
+    "minerals": {
+      "calcium_mg": 159,
+      "iron_mg": 7.61,
+      "magnesium_mg": 248,
+      "phosphorus_mg": 557,
+      "potassium_mg": 508,
+      "sodium_mg": 4,
+      "zinc_mg": 2.89,
+      "copper_mg": 0.52,
+      "manganese_mg": 1.66,
+      "selenium_mcg": 18.6
+    },
+    "benefits": {
+      "eyes": "Vitamin C and antioxidants protect the eyes from oxidative stress",
+      "bones": "Exceptional calcium content for a grain; also magnesium and phosphorus for bone density",
+      "skin": "Vitamin C and amino acids support collagen synthesis and skin repair",
+      "heart": "Magnesium regulates heart rhythm; fibre lowers cholesterol levels",
+      "brain": "All 9 essential amino acids support neurotransmitter synthesis",
+      "digestion": "High fibre promotes bowel regularity and feeds beneficial gut bacteria",
+      "immunity": "Iron, zinc, selenium, and vitamin C boost immune function",
+      "blood": "Extremely high iron and copper support red blood cell production"
+    },
+    "best_ways_to_eat": {
+      "raw": "Sprouted amaranth can be eaten raw in salads",
+      "boiled": "Simmer 20 minutes until grains are fluffy",
+      "steamed": "Retains slightly more nutrients than boiling",
+      "juice": "Amaranth sprout juice is nutrient-dense",
+      "cooked": "Popped like popcorn, used as porridge, or ground into flour"
+    },
+    "interesting_facts": [
+      "Amaranth is a complete protein containing all 9 essential amino acids, making it valuable for vegetarians.",
+      "It was a staple crop of the Aztecs and Incas and was even used in religious ceremonies.",
+      "Amaranth grains are smaller than a grain of sand.",
+      "Amaranth leaves are also edible and are sometimes used as a spinach-like green.",
+      "Popped amaranth has a nutty flavour and is used in breakfast cereals and granola."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Spelt",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Spelt_%28crop%29.jpg/500px-Spelt_%28crop%29.jpg",
+      "scientific_name": "Triticum dicoccum",
+      "color": "Golden Brown",
+      "season": "Harvested Summer"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 328,
+      "water_g": 13.6,
+      "protein_g": 14.6,
+      "carbohydrates_g": 67.8,
+      "sugar_g": 0.3,
+      "fibre_g": 10.7,
+      "fat_g": 2.4,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 0,
+      "vitamin_b1_mg": 0.40,
+      "vitamin_b2_mg": 0.13,
+      "vitamin_b3_mg": 7.64,
+      "vitamin_b5_mg": 0.89,
+      "vitamin_b6_mg": 0.22,
+      "vitamin_b7_mcg": 1.4,
+      "vitamin_b9_mcg": 51,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 0,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.71,
+      "vitamin_k_mcg": 2.0
+    },
+    "minerals": {
+      "calcium_mg": 27,
+      "iron_mg": 4.0,
+      "magnesium_mg": 126,
+      "phosphorus_mg": 301,
+      "potassium_mg": 359,
+      "sodium_mg": 3,
+      "zinc_mg": 2.68,
+      "copper_mg": 0.41,
+      "manganese_mg": 1.31,
+      "selenium_mcg": 100.0
+    },
+    "benefits": {
+      "eyes": "Selenium protects the eyes from oxidative damage and reduces cataract risk",
+      "bones": "Phosphorus, magnesium, and manganese support bone mineralisation",
+      "skin": "B vitamins and vitamin E support skin integrity and repair",
+      "heart": "Magnesium regulates blood pressure; niacin lowers cholesterol",
+      "brain": "B vitamins support neurotransmitter production and cognitive function",
+      "digestion": "High fibre promotes bowel regularity and prebiotic effects",
+      "immunity": "Selenium, zinc, and B vitamins enhance immune function",
+      "blood": "Iron supports red blood cell production; folate prevents anaemia"
+    },
+    "best_ways_to_eat": {
+      "raw": "Not typically eaten raw; spelt berries can be sprouted",
+      "boiled": "Spelt berries simmer 45–60 minutes until soft",
+      "steamed": "Retains more nutrients than boiling",
+      "juice": "Not typically juiced",
+      "cooked": "Ground into flour for bread and pasta; used as a grain in salads and pilafs"
+    },
+    "interesting_facts": [
+      "Spelt is an ancient variety of wheat with a hulled grain that makes it slightly different from modern wheat.",
+      "It was the primary grain used in medieval Europe and has been cultivated for over 9,000 years.",
+      "Spelt bread is easier to digest for some people who have wheat sensitivities, though it does contain gluten.",
+      "Spelt has a slightly nutty, earthy flavour that distinguishes it from common wheat.",
+      "The hull of spelt protects the grain during growing and storage, making it more resistant to pesticides."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Farro",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Spelt_-_raw_grain.jpg/500px-Spelt_-_raw_grain.jpg",
+      "scientific_name": "Hordeum distichum",
+      "color": "Golden Brown",
+      "season": "Harvested Summer"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 335,
+      "water_g": 9.1,
+      "protein_g": 9.7,
+      "carbohydrates_g": 71.3,
+      "sugar_g": 0.4,
+      "fibre_g": 10.0,
+      "fat_g": 2.4,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 0,
+      "vitamin_b1_mg": 0.39,
+      "vitamin_b2_mg": 0.11,
+      "vitamin_b3_mg": 6.27,
+      "vitamin_b5_mg": 0.60,
+      "vitamin_b6_mg": 0.30,
+      "vitamin_b7_mcg": 1.6,
+      "vitamin_b9_mcg": 45,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 0,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.43,
+      "vitamin_k_mcg": 1.8
+    },
+    "minerals": {
+      "calcium_mg": 20,
+      "iron_mg": 3.0,
+      "magnesium_mg": 110,
+      "phosphorus_mg": 310,
+      "potassium_mg": 380,
+      "sodium_mg": 2,
+      "zinc_mg": 2.40,
+      "copper_mg": 0.38,
+      "manganese_mg": 1.30,
+      "selenium_mcg": 84.7
+    },
+    "benefits": {
+      "eyes": "Selenium protects the lens and retina from oxidative damage",
+      "bones": "Phosphorus, magnesium, and manganese support bone strength",
+      "skin": "B vitamins and vitamin E support skin health and repair",
+      "heart": "Magnesium regulates heart rhythm; niacin lowers cholesterol",
+      "brain": "B vitamins support energy production and neurotransmitter synthesis",
+      "digestion": "High fibre promotes bowel health and feeds beneficial gut bacteria",
+      "immunity": "Selenium, zinc, and B vitamins enhance immune defences",
+      "blood": "Iron supports red blood cell production; folate prevents anaemia"
+    },
+    "best_ways_to_eat": {
+      "raw": "Not typically eaten raw; can be sprouted",
+      "boiled": "Simmer 30–45 minutes until grains are chewy",
+      "steamed": "Retains more nutrients than boiling",
+      "juice": "Not typically juiced",
+      "cooked": "Used in salads, soups, pilafs, and risotto; popular in Italian cuisine"
+    },
+    "interesting_facts": [
+      "Farro is an ancient grain that has been cultivated in the Mediterranean for over 10,000 years.",
+      "It is a staple of Italian cuisine and is used in the traditional dish orzotto.",
+      "Farro has a chewy texture and nutty flavour that holds up well in soups and salads.",
+      "It contains gluten and is not suitable for those with coeliac disease.",
+      "Farro is also known as 'hulled barley' or 'pearled barley' in different regions."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Teff",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Teff_grain.jpg/500px-Teff_grain.jpg",
+      "scientific_name": "Eragrostis tef",
+      "color": "Brown, Red, White",
+      "season": "Harvested Autumn"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 367,
+      "water_g": 8.3,
+      "protein_g": 13.3,
+      "carbohydrates_g": 73.1,
+      "sugar_g": 0.0,
+      "fibre_g": 8.0,
+      "fat_g": 2.4,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 0,
+      "vitamin_b1_mg": 0.39,
+      "vitamin_b2_mg": 0.14,
+      "vitamin_b3_mg": 2.70,
+      "vitamin_b5_mg": 0.14,
+      "vitamin_b6_mg": 0.18,
+      "vitamin_b7_mcg": 0.5,
+      "vitamin_b9_mcg": 24,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 0,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.04,
+      "vitamin_k_mcg": 0
+    },
+    "minerals": {
+      "calcium_mg": 180,
+      "iron_mg": 7.6,
+      "magnesium_mg": 184,
+      "phosphorus_mg": 454,
+      "potassium_mg": 427,
+      "sodium_mg": 3,
+      "zinc_mg": 3.63,
+      "copper_mg": 0.41,
+      "manganese_mg": 1.81,
+      "selenium_mcg": 0
+    },
+    "benefits": {
+      "eyes": "Zinc and antioxidants protect eye health from oxidative stress",
+      "bones": "Exceptionally high calcium and magnesium support bone density",
+      "skin": "Minerals and B vitamins support skin integrity and repair",
+      "heart": "Magnesium regulates blood pressure; fibre lowers cholesterol",
+      "brain": "B vitamins support energy production and cognitive function",
+      "digestion": "High fibre promotes bowel regularity and feeds beneficial gut bacteria",
+      "immunity": "Iron, zinc, and antioxidants enhance immune function",
+      "blood": "Extremely high iron and copper support red blood cell production"
+    },
+    "best_ways_to_eat": {
+      "raw": "Not typically eaten raw; can be sprouted",
+      "boiled": "Teff cooks quickly, typically in 15–20 minutes",
+      "steamed": "Retains more nutrients than boiling",
+      "juice": "Not typically juiced; used in beverages",
+      "cooked": "Ground into flour for injera (Ethiopian bread), porridges, or used as a grain"
+    },
+    "interesting_facts": [
+      "Teff is an ancient grain that originated in Ethiopia and Eritrea.",
+      "It is the smallest grain in the world — 150 teff grains weigh the same as one wheat kernel.",
+      "Teff flour is used to make injera, a spongy flatbread that is central to Ethiopian cuisine.",
+      "Teff is naturally gluten-free and has a mild, slightly sweet flavour.",
+      "Ethiopian runners, known for their endurance, traditionally consumed teff as a dietary staple."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Chia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Chias.jpg/500px-Chias.jpg",
+      "scientific_name": "Salvia hispanica",
+      "color": "Black, White, Grey",
+      "season": "Harvested Autumn"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 486,
+      "water_g": 5.8,
+      "protein_g": 16.5,
+      "carbohydrates_g": 42.1,
+      "sugar_g": 0.0,
+      "fibre_g": 27.6,
+      "fat_g": 30.7,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 54,
+      "vitamin_b1_mg": 0.62,
+      "vitamin_b2_mg": 0.24,
+      "vitamin_b3_mg": 8.83,
+      "vitamin_b5_mg": 0.14,
+      "vitamin_b6_mg": 0.12,
+      "vitamin_b7_mcg": 0.5,
+      "vitamin_b9_mcg": 78,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 1.6,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.50,
+      "vitamin_k_mcg": 0
+    },
+    "minerals": {
+      "calcium_mg": 631,
+      "iron_mg": 8.86,
+      "magnesium_mg": 335,
+      "phosphorus_mg": 860,
+      "potassium_mg": 407,
+      "sodium_mg": 16,
+      "zinc_mg": 4.58,
+      "copper_mg": 0.92,
+      "manganese_mg": 2.72,
+      "selenium_mcg": 55.2
+    },
+    "benefits": {
+      "eyes": "Omega-3 fatty acids support eye health and reduce inflammation",
+      "bones": "Exceptionally high calcium and magnesium support bone density",
+      "skin": "Omega-3s reduce inflammation; antioxidants protect skin cells",
+      "heart": "Omega-3 ALA reduces inflammation and supports heart health",
+      "brain": "Omega-3s and minerals support neurological function and mood",
+      "digestion": "Exceptional fibre content supports gut health and satiety",
+      "immunity": "Selenium, zinc, and omega-3s enhance immune function",
+      "blood": "Iron, copper, and omega-3s support red blood cell production and circulation"
+    },
+    "best_ways_to_eat": {
+      "raw": "Chia seeds are eaten raw, often soaked in liquid",
+      "boiled": "Not typically boiled; soaking in water or milk is preferred",
+      "steamed": "Not typically steamed",
+      "juice": "Blended into smoothies, juices, or chia pudding",
+      "cooked": "Added to baked goods, yogurt, oatmeal, or made into chia pudding"
+    },
+    "interesting_facts": [
+      "Chia seeds absorb up to 12 times their weight in water, forming a gel-like coating.",
+      "They were a staple food of Aztec warriors, who believed they increased endurance and energy.",
+      "Chia is one of the few plant-based sources of ALA omega-3 fatty acids.",
+      "White and black chia seeds have similar nutritional profiles, despite their appearance.",
+      "Chia seeds were so valued in ancient Mesoamerica that they were used as currency."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Flax",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Linseed_001.jpg/500px-Linseed_001.jpg",
+      "scientific_name": "Linum usitatissimum",
+      "color": "Brown, Golden",
+      "season": "Harvested Autumn"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 534,
+      "water_g": 6.9,
+      "protein_g": 18.3,
+      "carbohydrates_g": 28.9,
+      "sugar_g": 1.5,
+      "fibre_g": 27.3,
+      "fat_g": 42.2,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 0,
+      "vitamin_b1_mg": 1.64,
+      "vitamin_b2_mg": 0.16,
+      "vitamin_b3_mg": 3.08,
+      "vitamin_b5_mg": 0.98,
+      "vitamin_b6_mg": 0.47,
+      "vitamin_b7_mcg": 0.4,
+      "vitamin_b9_mcg": 87,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 0.6,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.31,
+      "vitamin_k_mcg": 0
+    },
+    "minerals": {
+      "calcium_mg": 255,
+      "iron_mg": 5.73,
+      "magnesium_mg": 392,
+      "phosphorus_mg": 642,
+      "potassium_mg": 813,
+      "sodium_mg": 30,
+      "zinc_mg": 6.73,
+      "copper_mg": 1.22,
+      "manganese_mg": 2.48,
+      "selenium_mcg": 25.4
+    },
+    "benefits": {
+      "eyes": "Omega-3 ALA reduces inflammation affecting the eyes",
+      "bones": "High magnesium and calcium support bone mineralisation",
+      "skin": "Omega-3s reduce inflammation; lignans have antioxidant properties",
+      "heart": "Omega-3 ALA reduces inflammation and supports cardiovascular health",
+      "brain": "Omega-3s support neurological function and cognitive health",
+      "digestion": "Exceptional fibre content promotes bowel regularity and gut health",
+      "immunity": "Lignans and minerals enhance immune function",
+      "blood": "Iron and copper support red blood cell production; omega-3s reduce clotting"
+    },
+    "best_ways_to_eat": {
+      "raw": "Flax seeds can be eaten raw but are better if ground to improve absorption",
+      "boiled": "Not typically boiled; soaking is used for ground flax",
+      "steamed": "Not typically steamed",
+      "juice": "Flax oil is consumed as a supplement; seeds can be blended into smoothies",
+      "cooked": "Ground flax added to baked goods, yogurt, oatmeal, or smoothies"
+    },
+    "interesting_facts": [
+      "Flax has been cultivated for over 5,000 years and was used for both food and fibre.",
+      "Ground flax has a better absorption rate than whole flax seeds.",
+      "Flax contains lignans, which act as phytoestrogens and may help reduce menopausal symptoms.",
+      "Flax oil is rich in ALA omega-3 fatty acids but becomes rancid quickly and should be refrigerated.",
+      "The phrase 'the linen' (from flax fibre) is one of the oldest textiles known to humanity."
+    ]
+  }
+]

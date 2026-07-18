@@ -1,0 +1,772 @@
+[
+  {
+    "basic_information": {
+      "name": "Almond",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Almond_DSC5792.jpg/500px-Almond_DSC5792.jpg",
+      "scientific_name": "Prunus amygdalus",
+      "color": "Brown",
+      "origin": "Middle East"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 579,
+      "water_g": 4.4,
+      "protein_g": 21.2,
+      "carbohydrates_g": 22.0,
+      "sugar_g": 4.4,
+      "fibre_g": 12.5,
+      "fat_g": 49.9,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 1,
+      "vitamin_b1_mg": 0.20,
+      "vitamin_b2_mg": 1.14,
+      "vitamin_b3_mg": 3.62,
+      "vitamin_b5_mg": 0.47,
+      "vitamin_b6_mg": 0.14,
+      "vitamin_b7_mcg": 0.5,
+      "vitamin_b9_mcg": 44,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 0.0,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 25.63,
+      "vitamin_k_mcg": 0.0
+    },
+    "minerals": {
+      "calcium_mg": 264,
+      "iron_mg": 3.71,
+      "magnesium_mg": 270,
+      "phosphorus_mg": 481,
+      "potassium_mg": 705,
+      "sodium_mg": 1,
+      "zinc_mg": 3.08,
+      "copper_mg": 1.00,
+      "manganese_mg": 2.19,
+      "selenium_mcg": 4.1
+    },
+    "benefits": {
+      "eyes": "Vitamin E protects eyes from age-related degeneration and oxidative stress",
+      "bones": "High calcium, magnesium, and phosphorus content strengthens bone structure",
+      "skin": "Vitamin E and monounsaturated fats promote skin elasticity and repair",
+      "heart": "Monounsaturated fats and polyphenols reduce LDL cholesterol and inflammation",
+      "brain": "Riboflavin and L-carnitine support brain energy metabolism and neurotransmitter production",
+      "digestion": "High fibre content aids digestive health and promotes beneficial gut bacteria",
+      "immunity": "Vitamin E and zinc activate immune cells and enhance pathogen response",
+      "blood": "Iron and copper support red blood cell formation; magnesium aids blood pressure regulation"
+    },
+    "best_ways_to_eat": {
+      "raw": "Eat raw as a snack for maximum enzyme and nutrient content",
+      "roasted": "Dry roasted enhances flavour without adding oil",
+      "soaked": "Soaking overnight reduces phytic acid and improves nutrient absorption",
+      "nut_butter": "Almond butter provides concentrated protein and healthy fats",
+      "milk": "Homemade almond milk is a dairy-free calcium-fortified alternative"
+    },
+    "interesting_facts": [
+      "Almonds are the world's most produced tree nut, with California producing 80% of global supply.",
+      "It takes about 5 pounds of almonds to produce 1 pound of almond oil.",
+      "Almond extract is made from the bitter almond variety, not the sweet almonds we eat.",
+      "Almonds were the only nut mentioned in the Bible.",
+      "An almond tree can live for over 50 years and produce nuts for most of its lifespan."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Walnut",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Walnut_-_whole_and_split.jpg/500px-Walnut_-_whole_and_split.jpg",
+      "scientific_name": "Juglans regia",
+      "color": "Light Brown",
+      "origin": "Central Asia"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 654,
+      "water_g": 4.3,
+      "protein_g": 9.1,
+      "carbohydrates_g": 13.7,
+      "sugar_g": 2.5,
+      "fibre_g": 6.7,
+      "fat_g": 65.2,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 20,
+      "vitamin_b1_mg": 0.34,
+      "vitamin_b2_mg": 0.15,
+      "vitamin_b3_mg": 1.13,
+      "vitamin_b5_mg": 0.57,
+      "vitamin_b6_mg": 0.54,
+      "vitamin_b7_mcg": 1.7,
+      "vitamin_b9_mcg": 98,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 1.3,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.98,
+      "vitamin_k_mcg": 2.7
+    },
+    "minerals": {
+      "calcium_mg": 98,
+      "iron_mg": 2.91,
+      "magnesium_mg": 158,
+      "phosphorus_mg": 346,
+      "potassium_mg": 441,
+      "sodium_mg": 2,
+      "zinc_mg": 3.09,
+      "copper_mg": 1.59,
+      "manganese_mg": 3.41,
+      "selenium_mcg": 5.6
+    },
+    "benefits": {
+      "eyes": "Antioxidants including polyphenols and Vitamin E protect retinal cells from damage",
+      "bones": "Magnesium, phosphorus, and copper are essential for bone formation and strength",
+      "skin": "Omega-3 and omega-6 balance promotes skin hydration and reduces inflammation",
+      "heart": "ALA (omega-3) reduces inflammation and atherosclerosis risk; lowers blood pressure",
+      "brain": "DHA-like compounds and polyphenols support cognitive function and neuroprotection",
+      "digestion": "Fibre feeds beneficial bacteria; improves gut microbiome diversity",
+      "immunity": "Polyphenols activate immune cells; copper and zinc boost immune response",
+      "blood": "Arginine supports nitric oxide production; improves blood flow and pressure"
+    },
+    "best_ways_to_eat": {
+      "raw": "Eat raw to preserve omega-3 content and antioxidants",
+      "roasted": "Light roasting enhances flavour without damaging healthy fats",
+      "oil": "Walnut oil is excellent for salad dressings and light cooking",
+      "nut_butter": "Walnut butter provides accessible protein and omega-3 fats",
+      "baked": "Added to baked goods for texture and nutritional boost"
+    },
+    "interesting_facts": [
+      "Walnuts contain ALA, an omega-3 fatty acid that the body converts to EPA and DHA (like fish oil).",
+      "The English walnut has been cultivated for over 9,000 years.",
+      "Walnut shells contain a natural dye and have been used for staining throughout history.",
+      "A handful of walnuts daily (about 28g) can significantly improve cholesterol levels.",
+      "The shape of a walnut resembles a brain, and eating walnuts genuinely benefits brain health."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Cashew",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Cashew-Nuss.jpg/500px-Cashew-Nuss.jpg",
+      "scientific_name": "Anacardium occidentale",
+      "color": "Off-White",
+      "origin": "Brazil"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 553,
+      "water_g": 5.2,
+      "protein_g": 18.2,
+      "carbohydrates_g": 30.2,
+      "sugar_g": 5.9,
+      "fibre_g": 3.3,
+      "fat_g": 43.9,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 0,
+      "vitamin_b1_mg": 0.42,
+      "vitamin_b2_mg": 0.22,
+      "vitamin_b3_mg": 1.06,
+      "vitamin_b5_mg": 0.86,
+      "vitamin_b6_mg": 0.42,
+      "vitamin_b7_mcg": 1.0,
+      "vitamin_b9_mcg": 25,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 0.5,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.90,
+      "vitamin_k_mcg": 0.0
+    },
+    "minerals": {
+      "calcium_mg": 37,
+      "iron_mg": 6.68,
+      "magnesium_mg": 292,
+      "phosphorus_mg": 593,
+      "potassium_mg": 660,
+      "sodium_mg": 12,
+      "zinc_mg": 5.78,
+      "copper_mg": 2.20,
+      "manganese_mg": 1.66,
+      "selenium_mcg": 19.9
+    },
+    "benefits": {
+      "eyes": "Selenium and Vitamin E protect eyes from oxidative damage and age-related disease",
+      "bones": "Copper and magnesium are crucial for bone collagen cross-linking and mineralisation",
+      "skin": "Copper supports collagen and elastin synthesis; antioxidants prevent skin ageing",
+      "heart": "Monounsaturated fats reduce LDL oxidation; copper supports heart muscle function",
+      "brain": "Phosphorus and copper support neurotransmitter synthesis and myelin formation",
+      "digestion": "Copper improves iron absorption and reduces digestive inflammation",
+      "immunity": "Zinc and copper activate immune cells; selenium acts as an antioxidant",
+      "blood": "Iron and copper form haemoglobin; manganese supports blood clotting"
+    },
+    "best_ways_to_eat": {
+      "raw": "Whole cashews as a snack; highest nutrient retention",
+      "roasted": "Roasted cashews develop deeper flavour; still retain nutrients",
+      "nut_butter": "Creamy cashew butter is delicious and nutrient-dense",
+      "milk": "Cashew milk is creamy and naturally sweet without additives",
+      "cooked": "Added to Asian curries, stir-fries, and creamy sauces"
+    },
+    "interesting_facts": [
+      "Cashew nuts grow outside the cashew apple fruit, not inside like most nuts.",
+      "The cashew shell contains toxic oils (cardol and anacardic acid) that must be removed by roasting.",
+      "Cashew nuts have a very high copper content, exceeding most other nuts.",
+      "India is the world's largest processor of cashews, despite Brazil producing more raw cashews.",
+      "Cashew nut shells are used to produce a liquid resin used in industrial applications."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Peanut",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Peanuts_illustration.png/500px-Peanuts_illustration.png",
+      "scientific_name": "Arachis hypogaea",
+      "color": "Tan",
+      "origin": "South America"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 567,
+      "water_g": 7.0,
+      "protein_g": 25.8,
+      "carbohydrates_g": 16.1,
+      "sugar_g": 4.7,
+      "fibre_g": 6.0,
+      "fat_g": 49.2,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 0,
+      "vitamin_b1_mg": 0.64,
+      "vitamin_b2_mg": 0.14,
+      "vitamin_b3_mg": 14.70,
+      "vitamin_b5_mg": 1.77,
+      "vitamin_b6_mg": 0.35,
+      "vitamin_b7_mcg": 0.4,
+      "vitamin_b9_mcg": 154,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 0.0,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 8.33,
+      "vitamin_k_mcg": 0.0
+    },
+    "minerals": {
+      "calcium_mg": 92,
+      "iron_mg": 4.58,
+      "magnesium_mg": 168,
+      "phosphorus_mg": 336,
+      "potassium_mg": 705,
+      "sodium_mg": 18,
+      "zinc_mg": 3.27,
+      "copper_mg": 1.14,
+      "manganese_mg": 1.93,
+      "selenium_mcg": 7.2
+    },
+    "benefits": {
+      "eyes": "Vitamin E and polyphenols protect eyes from macular degeneration",
+      "bones": "Phosphorus and magnesium support bone density and structure",
+      "skin": "Vitamin E, niacin, and resveratrol promote skin elasticity and repair",
+      "heart": "Monounsaturated fats lower LDL; resveratrol reduces inflammation and blood clots",
+      "brain": "Niacin, folate, and tyrosine support neurotransmitter production and memory",
+      "digestion": "High fibre and folate feed beneficial bacteria and support colon health",
+      "immunity": "Niacin and selenium boost immune cell production and antiviral defences",
+      "blood": "Iron and folate prevent anaemia; magnesium regulates blood pressure"
+    },
+    "best_ways_to_eat": {
+      "raw": "Raw peanuts retain maximum nutritional value; roasted peanuts are more common",
+      "roasted": "Roasting enhances flavour; dry roasted is healthier than oil-roasted",
+      "nut_butter": "Peanut butter is high in protein and satisfying",
+      "boiled": "Boiled peanuts (common in Southern US) are soft and easier to digest",
+      "cooked": "Added to stir-fries, curries, and Asian dishes for protein and flavour"
+    },
+    "interesting_facts": [
+      "Peanuts are technically legumes, not true nuts, growing underground in seed pods.",
+      "The peanut plant flowers above ground but develops its fruit underground.",
+      "Americans consume 700 million pounds of peanut butter annually.",
+      "Peanut butter was originally developed as a protein substitute for people without teeth.",
+      "It takes about 540 peanuts to make a 12-ounce jar of peanut butter."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Pecan",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pecans.jpg/500px-Pecans.jpg",
+      "scientific_name": "Carya illinoinensis",
+      "color": "Light Brown",
+      "origin": "North America"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 691,
+      "water_g": 3.6,
+      "protein_g": 9.2,
+      "carbohydrates_g": 13.9,
+      "sugar_g": 3.9,
+      "fibre_g": 8.7,
+      "fat_g": 71.9,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 17,
+      "vitamin_b1_mg": 0.66,
+      "vitamin_b2_mg": 0.13,
+      "vitamin_b3_mg": 1.17,
+      "vitamin_b5_mg": 0.86,
+      "vitamin_b6_mg": 0.21,
+      "vitamin_b7_mcg": 0.2,
+      "vitamin_b9_mcg": 22,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 1.1,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 1.40,
+      "vitamin_k_mcg": 3.7
+    },
+    "minerals": {
+      "calcium_mg": 70,
+      "iron_mg": 2.53,
+      "magnesium_mg": 121,
+      "phosphorus_mg": 277,
+      "potassium_mg": 410,
+      "sodium_mg": 0,
+      "zinc_mg": 4.53,
+      "copper_mg": 1.20,
+      "manganese_mg": 4.50,
+      "selenium_mcg": 3.9
+    },
+    "benefits": {
+      "eyes": "Lutein and zeaxanthin protect against macular degeneration and cataracts",
+      "bones": "Manganese is essential for bone formation; magnesium and phosphorus support density",
+      "skin": "Polyphenols and Vitamin E protect skin from sun damage and oxidative stress",
+      "heart": "Plant sterols reduce cholesterol; ellagic acid reduces inflammation and atherosclerosis",
+      "brain": "Manganese supports brain development; thiamine aids energy metabolism in neurons",
+      "digestion": "High fibre content supports healthy digestion and colon health",
+      "immunity": "Polyphenols and zinc activate immune cells; antioxidants fight pathogens",
+      "blood": "Manganese and copper support haemoglobin synthesis; zinc aids red blood cell function"
+    },
+    "best_ways_to_eat": {
+      "raw": "Raw pecans retain maximum polyphenols and nutrients",
+      "roasted": "Roasted pecans develop richer flavour; nutrients remain relatively intact",
+      "candied": "Pecans with natural sweeteners (though higher in sugar)",
+      "in_baking": "Used in pecan pies, brownies, and other desserts",
+      "oil": "Pecan oil is excellent for salad dressings and light cooking"
+    },
+    "interesting_facts": [
+      "Pecans have been eaten in North America for over 9,000 years, predating the arrival of Europeans.",
+      "A single pecan tree can produce up to 100 pounds of nuts in one season.",
+      "Pecans have a higher antioxidant content than any other tree nut.",
+      "The word 'pecan' comes from the Algonquian word meaning 'nut that requires a stone to crack'.",
+      "Texas is the largest pecan-producing state in the USA."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Pistachio",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Pistachios_nuts.jpg/500px-Pistachios_nuts.jpg",
+      "scientific_name": "Pistacia vera",
+      "color": "Green, Red",
+      "origin": "Middle East"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 560,
+      "water_g": 5.7,
+      "protein_g": 20.3,
+      "carbohydrates_g": 27.2,
+      "sugar_g": 7.7,
+      "fibre_g": 10.3,
+      "fat_g": 45.4,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 29,
+      "vitamin_b1_mg": 0.87,
+      "vitamin_b2_mg": 0.16,
+      "vitamin_b3_mg": 1.30,
+      "vitamin_b5_mg": 0.52,
+      "vitamin_b6_mg": 1.70,
+      "vitamin_b7_mcg": 0.4,
+      "vitamin_b9_mcg": 51,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 5.6,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 2.30,
+      "vitamin_k_mcg": 0.0
+    },
+    "minerals": {
+      "calcium_mg": 107,
+      "iron_mg": 3.92,
+      "magnesium_mg": 121,
+      "phosphorus_mg": 490,
+      "potassium_mg": 1025,
+      "sodium_mg": 2,
+      "zinc_mg": 2.20,
+      "copper_mg": 1.30,
+      "manganese_mg": 0.30,
+      "selenium_mcg": 7.0
+    },
+    "benefits": {
+      "eyes": "Zeaxanthin is concentrated in pistachio kernels; protects macula from damage",
+      "bones": "Phosphorus and magnesium support bone mineralisation and strength",
+      "skin": "Vitamin E and proanthocyanidins protect skin from UV and oxidative damage",
+      "heart": "Fibre and plant sterols lower LDL; potassium reduces blood pressure significantly",
+      "brain": "B-vitamins especially B6 support neurotransmitter and myelin synthesis",
+      "digestion": "High fibre content promotes digestive regularity and prebiotics for gut bacteria",
+      "immunity": "Vitamin B6, E, and copper activate immune cell production and function",
+      "blood": "Iron and B6 support haemoglobin production; potassium regulates blood pressure"
+    },
+    "best_ways_to_eat": {
+      "raw": "Raw pistachios retain highest nutrient content; naturally salty varieties",
+      "roasted": "Dry roasted enhances flavour without added oils",
+      "salted": "Traditional roasted and salted variety is the most popular",
+      "as_snack": "Whole pistachios require cracking, promoting slower, mindful eating",
+      "in_dishes": "Added to salads, rice dishes, and Middle Eastern delicacies"
+    },
+    "interesting_facts": [
+      "Pistachios have the highest fibre content of any tree nut.",
+      "The green colour comes from chlorophyll and is a marker of ripeness.",
+      "Pistachio trees can live for over 300 years and remain productive.",
+      "The natural opening of the pistachio shell happens as the nut matures.",
+      "Iran produces over half of the world's pistachios, followed by the United States."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Macadamia Nut",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Macadamia.JPG/500px-Macadamia.JPG",
+      "scientific_name": "Macadamia integrifolia",
+      "color": "White-Cream",
+      "origin": "Australia"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 718,
+      "water_g": 1.4,
+      "protein_g": 7.9,
+      "carbohydrates_g": 13.8,
+      "sugar_g": 4.6,
+      "fibre_g": 8.6,
+      "fat_g": 75.8,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 0,
+      "vitamin_b1_mg": 1.19,
+      "vitamin_b2_mg": 0.16,
+      "vitamin_b3_mg": 1.74,
+      "vitamin_b5_mg": 0.77,
+      "vitamin_b6_mg": 0.27,
+      "vitamin_b7_mcg": 0.0,
+      "vitamin_b9_mcg": 11,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 1.2,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.54,
+      "vitamin_k_mcg": 0.0
+    },
+    "minerals": {
+      "calcium_mg": 85,
+      "iron_mg": 3.69,
+      "magnesium_mg": 130,
+      "phosphorus_mg": 188,
+      "potassium_mg": 368,
+      "sodium_mg": 5,
+      "zinc_mg": 1.30,
+      "copper_mg": 1.19,
+      "manganese_mg": 4.13,
+      "selenium_mcg": 3.6
+    },
+    "benefits": {
+      "eyes": "Vitamin E and antioxidants protect eye tissues from oxidative damage",
+      "bones": "Magnesium, manganese, and phosphorus support bone formation and density",
+      "skin": "Monounsaturated fats and Vitamin E keep skin supple and protected",
+      "heart": "Highest monounsaturated fat content of any nut; lowers LDL cholesterol effectively",
+      "brain": "Thiamine and palmitoleic acid support brain energy and neurological health",
+      "digestion": "Fibre and monounsaturated fats support healthy digestion",
+      "immunity": "Selenium and copper boost immune cell production and pathogen response",
+      "blood": "Copper and iron support red blood cell formation and oxygen transport"
+    },
+    "best_ways_to_eat": {
+      "raw": "Raw macadamia nuts are buttery and naturally delicious",
+      "roasted": "Dry roasted brings out rich, sweet flavour",
+      "nut_butter": "Creamy macadamia nut butter is luxurious and easily digested",
+      "oil": "Macadamia oil is excellent for salads and light cooking at high heat",
+      "chocolate": "Macadamia nuts and dark chocolate are a classic pairing"
+    },
+    "interesting_facts": [
+      "Macadamia nuts are the hardest tree nuts to crack, requiring specialised machinery.",
+      "Macadamia nuts take 7-10 years to first bear fruit after planting.",
+      "They are one of the most expensive nuts due to processing challenges.",
+      "Hawaii is the largest producer of macadamia nuts outside Australia.",
+      "The name 'macadamia' comes from John Macadam, a Scottish scientist."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Brazil Nut",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Brazil_nut.jpg/500px-Brazil_nut.jpg",
+      "scientific_name": "Bertholletia excelsa",
+      "color": "Brown",
+      "origin": "South America"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 656,
+      "water_g": 3.3,
+      "protein_g": 14.3,
+      "carbohydrates_g": 12.3,
+      "sugar_g": 2.3,
+      "fibre_g": 6.2,
+      "fat_g": 66.4,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 0,
+      "vitamin_b1_mg": 0.62,
+      "vitamin_b2_mg": 0.04,
+      "vitamin_b3_mg": 0.30,
+      "vitamin_b5_mg": 0.18,
+      "vitamin_b6_mg": 0.10,
+      "vitamin_b7_mcg": 0.0,
+      "vitamin_b9_mcg": 22,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 0.7,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 5.73,
+      "vitamin_k_mcg": 0.0
+    },
+    "minerals": {
+      "calcium_mg": 160,
+      "iron_mg": 3.80,
+      "magnesium_mg": 376,
+      "phosphorus_mg": 725,
+      "potassium_mg": 659,
+      "sodium_mg": 3,
+      "zinc_mg": 4.06,
+      "copper_mg": 1.74,
+      "manganese_mg": 1.04,
+      "selenium_mcg": 1917.0
+    },
+    "benefits": {
+      "eyes": "Vitamin E and selenium protect eyes from oxidative degeneration",
+      "bones": "Extremely high magnesium; phosphorus and copper support bone mineralisation",
+      "skin": "Vitamin E and selenium protect skin from UV damage and photoageing",
+      "heart": "Selenium reduces cardiovascular inflammation; magnesium regulates heartbeat",
+      "brain": "Selenium is essential for thyroid hormone metabolism affecting brain function",
+      "digestion": "Fibre and magnesium support healthy digestive function",
+      "immunity": "Selenium is crucial for glutathione peroxidase, a master antioxidant enzyme",
+      "blood": "Copper and zinc support red blood cell production and immune function"
+    },
+    "best_ways_to_eat": {
+      "raw": "Raw Brazil nuts retain maximum selenium and Vitamin E",
+      "roasted": "Roasting enhances flavour but should be limited to maintain selenium",
+      "whole": "Best eaten whole to limit selenium intake to safe levels",
+      "in_blends": "Mix with other nuts to avoid excessive selenium consumption",
+      "occasional": "1-2 nuts daily is the recommended amount due to high selenium"
+    },
+    "interesting_facts": [
+      "Brazil nuts contain more selenium than any other food source — just 2-3 nuts meet daily needs.",
+      "Brazil nut trees can live for over 500 years and only grow in the wild.",
+      "They cannot be commercially cultivated; all Brazil nuts are wild-harvested.",
+      "The Brazil nut tree can grow up to 160 feet tall in the Amazon rainforest.",
+      "Excessive consumption of Brazil nuts can cause selenium toxicity (selenosis)."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Pine Nut",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/PinePinyon.jpg/500px-PinePinyon.jpg",
+      "scientific_name": "Pinus pinea",
+      "color": "Pale Cream",
+      "origin": "Mediterranean"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 673,
+      "water_g": 2.3,
+      "protein_g": 13.7,
+      "carbohydrates_g": 13.1,
+      "sugar_g": 3.6,
+      "fibre_g": 3.7,
+      "fat_g": 68.4,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 1,
+      "vitamin_b1_mg": 0.41,
+      "vitamin_b2_mg": 0.23,
+      "vitamin_b3_mg": 4.39,
+      "vitamin_b5_mg": 6.69,
+      "vitamin_b6_mg": 0.08,
+      "vitamin_b7_mcg": 0.0,
+      "vitamin_b9_mcg": 34,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 0.8,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 2.60,
+      "vitamin_k_mcg": 0.0
+    },
+    "minerals": {
+      "calcium_mg": 16,
+      "iron_mg": 5.53,
+      "magnesium_mg": 251,
+      "phosphorus_mg": 575,
+      "potassium_mg": 597,
+      "sodium_mg": 3,
+      "zinc_mg": 6.45,
+      "copper_mg": 1.30,
+      "manganese_mg": 3.82,
+      "selenium_mcg": 0.7
+    },
+    "benefits": {
+      "eyes": "Vitamin E and zinc protect eyes from age-related degeneration",
+      "bones": "High magnesium, phosphorus, and zinc support bone mineralisation and growth",
+      "skin": "Vitamin E and niacin support skin barrier function and repair",
+      "heart": "Monounsaturated fats reduce LDL; magnesium regulates blood pressure and heart rhythm",
+      "brain": "Pantothenic acid and zinc support neurotransmitter and myelin synthesis",
+      "digestion": "Zinc is essential for digestive enzyme production and gut barrier integrity",
+      "immunity": "Zinc activates immune cells; copper and iron enhance immune response",
+      "blood": "Iron and copper form haemoglobin; zinc maintains red blood cell integrity"
+    },
+    "best_ways_to_eat": {
+      "raw": "Raw pine nuts retain all nutrients; most expensive way to eat them",
+      "roasted": "Lightly roasted enhances buttery flavour",
+      "pesto": "Traditional pesto ingredient; blended with basil, garlic, and olive oil",
+      "salads": "Scattered over salads and Mediterranean dishes",
+      "baked": "Sprinkled on baked goods for a luxurious crunch"
+    },
+    "interesting_facts": [
+      "Pine nuts are the most expensive nuts due to labour-intensive harvesting from pinecones.",
+      "It takes 2-3 years for a pine cone to mature and release its nuts.",
+      "Pine nuts have been eaten for over 6,000 years, with evidence from Mediterranean civilisations.",
+      "Chinese pine nuts are cheaper but may have a lingering metallic taste (pine mouth).",
+      "Pine nuts are primarily harvested in China, Russia, and the Mediterranean region."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Hazelnut",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hazelnut.jpg/500px-Hazelnut.jpg",
+      "scientific_name": "Corylus avellana",
+      "color": "Brown",
+      "origin": "Western Asia"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 628,
+      "water_g": 5.3,
+      "protein_g": 15.0,
+      "carbohydrates_g": 16.7,
+      "sugar_g": 4.3,
+      "fibre_g": 9.7,
+      "fat_g": 60.8,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 28,
+      "vitamin_b1_mg": 0.64,
+      "vitamin_b2_mg": 0.11,
+      "vitamin_b3_mg": 1.30,
+      "vitamin_b5_mg": 0.95,
+      "vitamin_b6_mg": 0.56,
+      "vitamin_b7_mcg": 0.0,
+      "vitamin_b9_mcg": 72,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 6.3,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 15.03,
+      "vitamin_k_mcg": 0.0
+    },
+    "minerals": {
+      "calcium_mg": 114,
+      "iron_mg": 4.70,
+      "magnesium_mg": 163,
+      "phosphorus_mg": 290,
+      "potassium_mg": 680,
+      "sodium_mg": 0,
+      "zinc_mg": 2.45,
+      "copper_mg": 1.39,
+      "manganese_mg": 6.18,
+      "selenium_mcg": 2.4
+    },
+    "benefits": {
+      "eyes": "Vitamin E is one of the highest of any nut; protects retina from oxidative stress",
+      "bones": "Manganese is essential for bone mineralisation; magnesium supports bone density",
+      "skin": "High Vitamin E and manganese support skin elasticity and collagen formation",
+      "heart": "Monounsaturated fats reduce LDL; copper supports heart muscle contraction",
+      "brain": "Manganese, folate, and B-vitamins support cognitive function and memory",
+      "digestion": "High fibre and polyphenols feed beneficial bacteria and reduce colon inflammation",
+      "immunity": "Manganese activates immune enzymes; Vitamin E acts as a potent antioxidant",
+      "blood": "Iron and copper support haemoglobin synthesis; folate prevents anaemia"
+    },
+    "best_ways_to_eat": {
+      "raw": "Raw hazelnuts have a sweet, subtle flavour",
+      "roasted": "Roasting brings out rich, toasted flavour; darkens the kernels",
+      "hazelnut_butter": "Smooth and delicious alternative to almond butter",
+      "chocolate": "Traditional pairing; Nutella is hazelnut spread with chocolate",
+      "oil": "Cold-pressed hazelnut oil for salad dressings"
+    },
+    "interesting_facts": [
+      "Hazelnuts have extremely high Vitamin E content — more than 15 mg per 100g.",
+      "Turkey and Italy are the world's largest producers of hazelnuts.",
+      "Hazelnut trees have been cultivated for over 5,000 years.",
+      "The hazelnut shell opens naturally when the nut is ripe.",
+      "Hazelnuts were sacred in Celtic cultures and symbolised wisdom and protection."
+    ]
+  },
+  {
+    "basic_information": {
+      "name": "Chestnut",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Roasted_Chestnuts.jpg/500px-Roasted_Chestnuts.jpg",
+      "scientific_name": "Castanea sativa",
+      "color": "Reddish-Brown",
+      "origin": "Mediterranean"
+    },
+    "nutrition_per_100g": {
+      "calories_kcal": 245,
+      "water_g": 45.5,
+      "protein_g": 2.4,
+      "carbohydrates_g": 44.3,
+      "sugar_g": 11.8,
+      "fibre_g": 8.1,
+      "fat_g": 2.3,
+      "cholesterol_mg": 0
+    },
+    "vitamins": {
+      "vitamin_a_mcg": 1,
+      "vitamin_b1_mg": 0.13,
+      "vitamin_b2_mg": 0.11,
+      "vitamin_b3_mg": 0.68,
+      "vitamin_b5_mg": 0.45,
+      "vitamin_b6_mg": 0.32,
+      "vitamin_b7_mcg": 0.0,
+      "vitamin_b9_mcg": 55,
+      "vitamin_b12_mcg": 0,
+      "vitamin_c_mg": 27.0,
+      "vitamin_d_mcg": 0,
+      "vitamin_e_mg": 0.76,
+      "vitamin_k_mcg": 0.0
+    },
+    "minerals": {
+      "calcium_mg": 27,
+      "iron_mg": 1.25,
+      "magnesium_mg": 33,
+      "phosphorus_mg": 100,
+      "potassium_mg": 518,
+      "sodium_mg": 3,
+      "zinc_mg": 0.42,
+      "copper_mg": 0.34,
+      "manganese_mg": 0.99,
+      "selenium_mcg": 0.2
+    },
+    "benefits": {
+      "eyes": "Vitamin C and antioxidants protect eyes from oxidative damage",
+      "bones": "Copper and manganese support bone formation and collagen cross-linking",
+      "skin": "Vitamin C boosts collagen synthesis; tannins reduce skin inflammation",
+      "heart": "Low fat; fibre lowers cholesterol; potassium regulates blood pressure",
+      "brain": "Folate and B6 support neurotransmitter synthesis and mood regulation",
+      "digestion": "Extremely high fibre — much higher than other nuts; promotes colon health",
+      "immunity": "Vitamin C and tannins provide antioxidant and antimicrobial benefits",
+      "blood": "Folate, copper, and iron support red blood cell production and prevent anaemia"
+    },
+    "best_ways_to_eat": {
+      "roasted": "Roasted chestnuts are the most traditional preparation",
+      "boiled": "Boiling softens the inner skin for easier peeling",
+      "raw": "Can be eaten raw but are tougher and less digestible",
+      "flour": "Chestnut flour is gluten-free and used in baking",
+      "puree": "Used in soups, stews, and desserts"
+    },
+    "interesting_facts": [
+      "Chestnuts are unique among nuts in being very low in fat — about 2% compared to 60-75% in other nuts.",
+      "They are also much higher in carbohydrates than other nuts, making them more like grains nutritionally.",
+      "Roasted chestnuts are traditionally eaten around Christmas, especially in Mediterranean cultures.",
+      "Chestnut trees can live for several hundred years and reach great heights.",
+      "The American chestnut tree was nearly wiped out by a blight in the early 20th century."
+    ]
+  }
+]

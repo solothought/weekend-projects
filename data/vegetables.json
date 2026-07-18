@@ -1,0 +1,1422 @@
+[
+    {
+      "basic_information": {
+        "name": "Carrot",
+        "category": "Vegetable",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vegetable-Carrot-Bundle-wStalks.jpg/500px-Vegetable-Carrot-Bundle-wStalks.jpg",
+        "scientific_name": "Daucus carota subsp. sativus",
+        "color": "Orange",
+        "season": "Autumn, Winter"
+      },
+      "nutrition_per_100g": {
+        "calories_kcal": 41,
+        "water_g": 88.3,
+        "protein_g": 0.9,
+        "carbohydrates_g": 9.6,
+        "sugar_g": 4.7,
+        "fibre_g": 2.8,
+        "fat_g": 0.2,
+        "cholesterol_mg": 0
+      },
+      "vitamins": {
+        "vitamin_a_mcg": 835,
+        "vitamin_b1_mg": 0.07,
+        "vitamin_b2_mg": 0.06,
+        "vitamin_b3_mg": 0.98,
+        "vitamin_b5_mg": 0.27,
+        "vitamin_b6_mg": 0.14,
+        "vitamin_b7_mcg": 0.6,
+        "vitamin_b9_mcg": 19,
+        "vitamin_b12_mcg": 0,
+        "vitamin_c_mg": 5.9,
+        "vitamin_d_mcg": 0,
+        "vitamin_e_mg": 0.66,
+        "vitamin_k_mcg": 13.2
+      },
+      "minerals": {
+        "calcium_mg": 33,
+        "iron_mg": 0.3,
+        "magnesium_mg": 12,
+        "phosphorus_mg": 35,
+        "potassium_mg": 320,
+        "sodium_mg": 69,
+        "zinc_mg": 0.24,
+        "copper_mg": 0.05,
+        "manganese_mg": 0.14,
+        "selenium_mcg": 0.1
+      },
+      "benefits": {
+        "eyes": "Rich in beta-carotene which converts to Vitamin A, essential for night vision and reducing risk of macular degeneration",
+        "bones": "Contains Vitamin K and calcium which support bone mineral density",
+        "skin": "Antioxidants and beta-carotene protect skin from UV damage and promote a healthy glow",
+        "heart": "Potassium helps regulate blood pressure; fibre lowers LDL cholesterol",
+        "brain": "Antioxidants reduce oxidative stress linked to cognitive decline",
+        "digestion": "High fibre content promotes healthy bowel movements and feeds gut bacteria",
+        "immunity": "Vitamin C and antioxidants strengthen immune defences",
+        "blood": "Vitamin K supports proper blood clotting; folate aids red blood cell formation"
+      },
+      "best_ways_to_eat": {
+        "raw": "Excellent as crudités with hummus or grated in salads",
+        "boiled": "Lightly boil to soften while retaining most nutrients",
+        "steamed": "Best method to preserve beta-carotene and Vitamin C",
+        "juice": "Fresh carrot juice is rich in beta-carotene and easily absorbed",
+        "cooked": "Roasting with olive oil enhances beta-carotene absorption"
+      },
+      "interesting_facts": [
+        "Carrots were originally purple or white; orange varieties were developed in the Netherlands in the 17th century.",
+        "Cooking carrots actually increases the bioavailability of beta-carotene.",
+        "Carrots are 88% water.",
+        "The carrot is the second most popular vegetable in the world after the potato.",
+        "Baby carrots are simply large carrots cut and shaped by machine, not a separate variety."
+      ]
+    },
+    {
+      "basic_information": {
+        "name": "Spinach",
+        "category": "Vegetable",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Baby_Spinach.jpg/500px-Baby_Spinach.jpg",
+        "scientific_name": "Spinacia oleracea",
+        "color": "Dark Green",
+        "season": "Spring, Autumn"
+      },
+      "nutrition_per_100g": {
+        "calories_kcal": 23,
+        "water_g": 91.4,
+        "protein_g": 2.9,
+        "carbohydrates_g": 3.6,
+        "sugar_g": 0.4,
+        "fibre_g": 2.2,
+        "fat_g": 0.4,
+        "cholesterol_mg": 0
+      },
+      "vitamins": {
+        "vitamin_a_mcg": 469,
+        "vitamin_b1_mg": 0.08,
+        "vitamin_b2_mg": 0.19,
+        "vitamin_b3_mg": 0.72,
+        "vitamin_b5_mg": 0.07,
+        "vitamin_b6_mg": 0.20,
+        "vitamin_b7_mcg": 0.2,
+        "vitamin_b9_mcg": 194,
+        "vitamin_b12_mcg": 0,
+        "vitamin_c_mg": 28.1,
+        "vitamin_d_mcg": 0,
+        "vitamin_e_mg": 2.03,
+        "vitamin_k_mcg": 482.9
+      },
+      "minerals": {
+        "calcium_mg": 99,
+        "iron_mg": 2.7,
+        "magnesium_mg": 79,
+        "phosphorus_mg": 49,
+        "potassium_mg": 558,
+        "sodium_mg": 79,
+        "zinc_mg": 0.53,
+        "copper_mg": 0.13,
+        "manganese_mg": 0.90,
+        "selenium_mcg": 1.0
+      },
+      "benefits": {
+        "eyes": "Lutein and zeaxanthin protect against cataracts and macular degeneration",
+        "bones": "Extremely high in Vitamin K, crucial for bone mineralisation",
+        "skin": "Vitamin C and E fight free radicals; Vitamin A repairs skin tissue",
+        "heart": "Nitrates lower blood pressure; folate reduces homocysteine levels",
+        "brain": "Folate, Vitamin K, and lutein are associated with slower cognitive decline",
+        "digestion": "Fibre and water content support healthy digestion and regularity",
+        "immunity": "Vitamin C, E, and beta-carotene bolster immune system function",
+        "blood": "High iron content supports red blood cell production; folate prevents anaemia"
+      },
+      "best_ways_to_eat": {
+        "raw": "Baby spinach in salads retains maximum Vitamin C and folate",
+        "boiled": "Brief boiling reduces oxalates, improving calcium and iron absorption",
+        "steamed": "Light steaming preserves most nutrients while reducing volume",
+        "juice": "Green smoothies with spinach provide a concentrated nutrient boost",
+        "cooked": "Sautéed with garlic and olive oil is a classic preparation"
+      },
+      "interesting_facts": [
+        "Spinach originated in Persia (modern-day Iran) over 2,000 years ago.",
+        "Popeye's association with spinach led to a 33% increase in US spinach consumption in the 1930s.",
+        "Spinach contains oxalic acid which can bind to iron and calcium, reducing their absorption.",
+        "One cup of raw spinach contains only 7 calories.",
+        "Spinach has more protein per calorie than most other vegetables."
+      ]
+    },
+    {
+      "basic_information": {
+        "name": "Broccoli",
+        "category": "Vegetable",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Fresh_broccoli_head.jpg/500px-Fresh_broccoli_head.jpg",
+        "scientific_name": "Brassica oleracea var. italica",
+        "color": "Green",
+        "season": "Autumn, Winter, Spring"
+      },
+      "nutrition_per_100g": {
+        "calories_kcal": 34,
+        "water_g": 89.3,
+        "protein_g": 2.8,
+        "carbohydrates_g": 6.6,
+        "sugar_g": 1.7,
+        "fibre_g": 2.6,
+        "fat_g": 0.4,
+        "cholesterol_mg": 0
+      },
+      "vitamins": {
+        "vitamin_a_mcg": 31,
+        "vitamin_b1_mg": 0.07,
+        "vitamin_b2_mg": 0.12,
+        "vitamin_b3_mg": 0.64,
+        "vitamin_b5_mg": 0.57,
+        "vitamin_b6_mg": 0.18,
+        "vitamin_b7_mcg": 0.9,
+        "vitamin_b9_mcg": 63,
+        "vitamin_b12_mcg": 0,
+        "vitamin_c_mg": 89.2,
+        "vitamin_d_mcg": 0,
+        "vitamin_e_mg": 0.78,
+        "vitamin_k_mcg": 101.6
+      },
+      "minerals": {
+        "calcium_mg": 47,
+        "iron_mg": 0.7,
+        "magnesium_mg": 21,
+        "phosphorus_mg": 66,
+        "potassium_mg": 316,
+        "sodium_mg": 33,
+        "zinc_mg": 0.41,
+        "copper_mg": 0.05,
+        "manganese_mg": 0.21,
+        "selenium_mcg": 2.5
+      },
+      "benefits": {
+        "eyes": "Lutein and zeaxanthin reduce risk of age-related eye diseases",
+        "bones": "High Vitamin K and calcium support strong bone structure",
+        "skin": "Vitamin C stimulates collagen synthesis; sulforaphane protects skin cells",
+        "heart": "Sulforaphane and fibre reduce inflammation and lower cholesterol",
+        "brain": "Sulforaphane has neuroprotective properties; folate supports brain health",
+        "digestion": "Fibre promotes healthy gut microbiome and regular digestion",
+        "immunity": "Exceptionally high Vitamin C content strengthens immune response",
+        "blood": "Vitamin K aids blood clotting; folate supports healthy red blood cells"
+      },
+      "best_ways_to_eat": {
+        "raw": "Retains maximum sulforaphane and Vitamin C; great with dips",
+        "boiled": "Brief boiling (3–4 min) softens texture; avoid overcooking to retain nutrients",
+        "steamed": "Optimal method — preserves sulforaphane, colour, and texture",
+        "juice": "Can be juiced with apple and ginger for a nutrient-dense drink",
+        "cooked": "Roasted broccoli develops a nutty flavour; stir-fry retains crunch"
+      },
+      "interesting_facts": [
+        "Broccoli was cultivated in Italy in the 6th century BCE and was brought to the US by Italian immigrants.",
+        "Sulforaphane in broccoli activates the body's own antioxidant defences.",
+        "Broccoli has more protein per calorie than steak.",
+        "One cup of broccoli has nearly as much Vitamin C as an orange.",
+        "Broccoli belongs to the same species as cabbage, kale, and Brussels sprouts."
+      ]
+    },
+    {
+      "basic_information": {
+        "name": "Tomato",
+        "category": "Vegetable",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/500px-Tomato_je.jpg",
+        "scientific_name": "Solanum lycopersicum",
+        "color": "Red",
+        "season": "Summer"
+      },
+      "nutrition_per_100g": {
+        "calories_kcal": 18,
+        "water_g": 94.5,
+        "protein_g": 0.9,
+        "carbohydrates_g": 3.9,
+        "sugar_g": 2.6,
+        "fibre_g": 1.2,
+        "fat_g": 0.2,
+        "cholesterol_mg": 0
+      },
+      "vitamins": {
+        "vitamin_a_mcg": 42,
+        "vitamin_b1_mg": 0.04,
+        "vitamin_b2_mg": 0.02,
+        "vitamin_b3_mg": 0.59,
+        "vitamin_b5_mg": 0.09,
+        "vitamin_b6_mg": 0.08,
+        "vitamin_b7_mcg": 1.5,
+        "vitamin_b9_mcg": 15,
+        "vitamin_b12_mcg": 0,
+        "vitamin_c_mg": 13.7,
+        "vitamin_d_mcg": 0,
+        "vitamin_e_mg": 0.54,
+        "vitamin_k_mcg": 7.9
+      },
+      "minerals": {
+        "calcium_mg": 10,
+        "iron_mg": 0.3,
+        "magnesium_mg": 11,
+        "phosphorus_mg": 24,
+        "potassium_mg": 237,
+        "sodium_mg": 5,
+        "zinc_mg": 0.17,
+        "copper_mg": 0.06,
+        "manganese_mg": 0.11,
+        "selenium_mcg": 0.4
+      },
+      "benefits": {
+        "eyes": "Lycopene and beta-carotene protect against macular degeneration",
+        "bones": "Vitamin K and calcium contribute to bone density maintenance",
+        "skin": "Lycopene provides natural sun protection and reduces skin ageing",
+        "heart": "Lycopene lowers LDL oxidation; potassium regulates blood pressure",
+        "brain": "Folate and antioxidants reduce risk of depression and cognitive decline",
+        "digestion": "Water content and fibre aid hydration and digestive regularity",
+        "immunity": "Vitamin C and lycopene enhance immune system function",
+        "blood": "Vitamin K helps in blood clotting; folate supports red blood cell production"
+      },
+      "best_ways_to_eat": {
+        "raw": "Sliced in salads or with olive oil and basil maximises Vitamin C",
+        "boiled": "Used in soups and stews; increases lycopene bioavailability",
+        "steamed": "Lightly steamed retains nutrients while softening texture",
+        "juice": "Tomato juice provides concentrated lycopene and potassium",
+        "cooked": "Cooking with oil significantly boosts lycopene absorption"
+      },
+      "interesting_facts": [
+        "Botanically a fruit, the tomato is legally classified as a vegetable in the United States since an 1893 Supreme Court ruling.",
+        "Cooking tomatoes increases lycopene content by up to 35%.",
+        "China is the world's largest producer of tomatoes.",
+        "There are over 10,000 varieties of tomatoes.",
+        "Tomatoes were once thought to be poisonous in Europe because they belong to the nightshade family."
+      ]
+    },
+    {
+      "basic_information": {
+        "name": "Potato",
+        "category": "Vegetable",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Potato_and_cross_section.jpg/500px-Potato_and_cross_section.jpg",
+        "scientific_name": "Solanum tuberosum",
+        "color": "Yellow-Brown",
+        "season": "Autumn, Spring"
+      },
+      "nutrition_per_100g": {
+        "calories_kcal": 77,
+        "water_g": 79.4,
+        "protein_g": 2.0,
+        "carbohydrates_g": 17.5,
+        "sugar_g": 0.8,
+        "fibre_g": 2.1,
+        "fat_g": 0.1,
+        "cholesterol_mg": 0
+      },
+      "vitamins": {
+        "vitamin_a_mcg": 0,
+        "vitamin_b1_mg": 0.08,
+        "vitamin_b2_mg": 0.03,
+        "vitamin_b3_mg": 1.06,
+        "vitamin_b5_mg": 0.30,
+        "vitamin_b6_mg": 0.30,
+        "vitamin_b7_mcg": 0.5,
+        "vitamin_b9_mcg": 16,
+        "vitamin_b12_mcg": 0,
+        "vitamin_c_mg": 19.7,
+        "vitamin_d_mcg": 0,
+        "vitamin_e_mg": 0.01,
+        "vitamin_k_mcg": 2.0
+      },
+      "minerals": {
+        "calcium_mg": 12,
+        "iron_mg": 0.8,
+        "magnesium_mg": 23,
+        "phosphorus_mg": 57,
+        "potassium_mg": 425,
+        "sodium_mg": 6,
+        "zinc_mg": 0.30,
+        "copper_mg": 0.11,
+        "manganese_mg": 0.15,
+        "selenium_mcg": 0.4
+      },
+      "benefits": {
+        "eyes": "Carotenoids in coloured potatoes (yellow, purple) support eye health",
+        "bones": "Magnesium, phosphorus, and calcium contribute to bone strength",
+        "skin": "Vitamin C supports collagen production for healthy skin",
+        "heart": "Potassium lowers blood pressure; resistant starch improves cholesterol",
+        "brain": "Vitamin B6 is critical for neurotransmitter synthesis including serotonin",
+        "digestion": "Resistant starch acts as a prebiotic, feeding beneficial gut bacteria",
+        "immunity": "Vitamin C boosts immune defences; antioxidants reduce inflammation",
+        "blood": "Iron and folate support healthy red blood cell formation"
+      },
+      "best_ways_to_eat": {
+        "raw": "Not recommended raw; can cause digestive discomfort",
+        "boiled": "Boiling with skin retains most nutrients; resistant starch increases when cooled",
+        "steamed": "Steaming preserves more Vitamin C and potassium than boiling",
+        "juice": "Raw potato juice is used traditionally for digestive health",
+        "cooked": "Baking with skin is nutritious; avoid deep-frying to limit added fats"
+      },
+      "interesting_facts": [
+        "The potato originated in the Andes of South America and has been cultivated for over 8,000 years.",
+        "Potatoes were the first vegetable to be grown in space (1995, aboard the Space Shuttle Columbia).",
+        "There are over 4,000 varieties of potato worldwide.",
+        "The Irish Potato Famine (1845–1849) caused the death or emigration of over 2 million people.",
+        "Cooling cooked potatoes increases resistant starch content by up to 75%."
+      ]
+    },
+    {
+      "basic_information": {
+        "name": "Onion",
+        "category": "Vegetable",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Onion_on_White.JPG/500px-Onion_on_White.JPG",
+        "scientific_name": "Allium cepa",
+        "color": "White, Yellow, Red",
+        "season": "Year-round (harvested Summer–Autumn)"
+      },
+      "nutrition_per_100g": {
+        "calories_kcal": 40,
+        "water_g": 89.1,
+        "protein_g": 1.1,
+        "carbohydrates_g": 9.3,
+        "sugar_g": 4.2,
+        "fibre_g": 1.7,
+        "fat_g": 0.1,
+        "cholesterol_mg": 0
+      },
+      "vitamins": {
+        "vitamin_a_mcg": 0,
+        "vitamin_b1_mg": 0.05,
+        "vitamin_b2_mg": 0.03,
+        "vitamin_b3_mg": 0.12,
+        "vitamin_b5_mg": 0.12,
+        "vitamin_b6_mg": 0.12,
+        "vitamin_b7_mcg": 0.9,
+        "vitamin_b9_mcg": 19,
+        "vitamin_b12_mcg": 0,
+        "vitamin_c_mg": 7.4,
+        "vitamin_d_mcg": 0,
+        "vitamin_e_mg": 0.02,
+        "vitamin_k_mcg": 0.4
+      },
+      "minerals": {
+        "calcium_mg": 23,
+        "iron_mg": 0.2,
+        "magnesium_mg": 10,
+        "phosphorus_mg": 29,
+        "potassium_mg": 146,
+        "sodium_mg": 4,
+        "zinc_mg": 0.17,
+        "copper_mg": 0.04,
+        "manganese_mg": 0.13,
+        "selenium_mcg": 0.5
+      },
+      "benefits": {
+        "eyes": "Quercetin and sulphur compounds may reduce risk of cataracts",
+        "bones": "Quercetin inhibits osteoclast activity, helping prevent bone loss",
+        "skin": "Quercetin and Vitamin C protect against UV damage and promote collagen",
+        "heart": "Quercetin reduces blood pressure and inflammation; thiosulfinates inhibit clot formation",
+        "brain": "Quercetin has neuroprotective properties and may reduce Alzheimer's risk",
+        "digestion": "Inulin (prebiotic fibre) feeds beneficial gut bacteria",
+        "immunity": "Quercetin is a powerful anti-inflammatory and antioxidant",
+        "blood": "Compounds in onions help prevent platelet aggregation and reduce blood clotting risk"
+      },
+      "best_ways_to_eat": {
+        "raw": "Maximises quercetin and organosulfur compounds; great in salads",
+        "boiled": "Softens flavour; some quercetin leaches into cooking water",
+        "steamed": "Retains more nutrients than boiling",
+        "juice": "Onion juice is traditionally used for respiratory and hair health",
+        "cooked": "Caramelised onions develop natural sweetness; sautéed in most cuisines"
+      },
+      "interesting_facts": [
+        "Onions cause tears because cutting them releases syn-propanethial-S-oxide, which reacts with eye moisture to form sulphuric acid.",
+        "Onions are among the oldest cultivated vegetables, with evidence of cultivation dating back 5,000 years.",
+        "China produces more than half of the world's onions.",
+        "Ancient Egyptians considered the onion a symbol of eternal life due to its concentric rings.",
+        "Red onions contain significantly more quercetin and anthocyanins than white or yellow varieties."
+      ]
+    },
+    {
+      "basic_information": {
+        "name": "Garlic",
+        "category": "Vegetable",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Garlic_%28Allium_sativum%29_with_growth.jpg/500px-Garlic_%28Allium_sativum%29_with_growth.jpg",
+        "scientific_name": "Allium sativum",
+        "color": "White",
+        "season": "Harvested Summer; available Year-round"
+      },
+      "nutrition_per_100g": {
+        "calories_kcal": 149,
+        "water_g": 58.6,
+        "protein_g": 6.4,
+        "carbohydrates_g": 33.1,
+        "sugar_g": 1.0,
+        "fibre_g": 2.1,
+        "fat_g": 0.5,
+        "cholesterol_mg": 0
+      },
+      "vitamins": {
+        "vitamin_a_mcg": 0,
+        "vitamin_b1_mg": 0.20,
+        "vitamin_b2_mg": 0.11,
+        "vitamin_b3_mg": 0.70,
+        "vitamin_b5_mg": 0.60,
+        "vitamin_b6_mg": 1.24,
+        "vitamin_b7_mcg": 0.6,
+        "vitamin_b9_mcg": 3,
+        "vitamin_b12_mcg": 0,
+        "vitamin_c_mg": 31.2,
+        "vitamin_d_mcg": 0,
+        "vitamin_e_mg": 0.08,
+        "vitamin_k_mcg": 1.7
+      },
+      "minerals": {
+        "calcium_mg": 181,
+        "iron_mg": 1.7,
+        "magnesium_mg": 25,
+        "phosphorus_mg": 153,
+        "potassium_mg": 401,
+        "sodium_mg": 17,
+        "zinc_mg": 1.16,
+        "copper_mg": 0.30,
+        "manganese_mg": 1.67,
+        "selenium_mcg": 14.2
+      },
+      "benefits": {
+        "eyes": "Selenium and quercetin may help protect against oxidative damage to the eyes",
+        "bones": "Oestrogen-like compounds in garlic may help reduce bone loss in women",
+        "skin": "Allicin has antibacterial properties that help combat acne",
+        "heart": "Allicin lowers blood pressure and total cholesterol; reduces clot formation",
+        "brain": "Antioxidants may protect against Alzheimer's and age-related cognitive decline",
+        "digestion": "Prebiotic inulin supports gut microbiome; allicin combats harmful bacteria",
+        "immunity": "Allicin and other sulphur compounds powerfully boost immune response",
+        "blood": "Reduces platelet aggregation; helps lower blood pressure and cholesterol"
+      },
+      "best_ways_to_eat": {
+        "raw": "Crushing or chopping raw garlic and letting it rest 10 min maximises allicin",
+        "boiled": "Loses much of its allicin; use minimally",
+        "steamed": "Better than boiling for retaining bioactive compounds",
+        "juice": "Raw garlic juice or water with crushed garlic is used medicinally",
+        "cooked": "Roasted garlic becomes mild and sweet; add to dishes near end of cooking"
+      },
+      "interesting_facts": [
+        "Allicin, the key compound in garlic, is only formed when garlic is crushed or chopped — not when it is whole.",
+        "Garlic has been used medicinally for over 5,000 years across Egyptian, Greek, Roman, Chinese, and Indian cultures.",
+        "During World War I and II, garlic was used as an antiseptic to prevent gangrene.",
+        "A fear of garlic is called alliumphobia.",
+        "China accounts for roughly 80% of the world's garlic production."
+      ]
+    },
+    {
+      "basic_information": {
+        "name": "Capsicum (Bell Pepper)",
+        "category": "Vegetable",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Capsicum_annuum_2.jpg/500px-Capsicum_annuum_2.jpg",
+        "scientific_name": "Capsicum annuum",
+        "color": "Red, Yellow, Green, Orange",
+        "season": "Summer, Autumn"
+      },
+      "nutrition_per_100g": {
+        "calories_kcal": 31,
+        "water_g": 92.0,
+        "protein_g": 1.0,
+        "carbohydrates_g": 6.0,
+        "sugar_g": 4.2,
+        "fibre_g": 2.1,
+        "fat_g": 0.3,
+        "cholesterol_mg": 0
+      },
+      "vitamins": {
+        "vitamin_a_mcg": 157,
+        "vitamin_b1_mg": 0.06,
+        "vitamin_b2_mg": 0.09,
+        "vitamin_b3_mg": 0.98,
+        "vitamin_b5_mg": 0.32,
+        "vitamin_b6_mg": 0.29,
+        "vitamin_b7_mcg": 0.5,
+        "vitamin_b9_mcg": 46,
+        "vitamin_b12_mcg": 0,
+        "vitamin_c_mg": 127.7,
+        "vitamin_d_mcg": 0,
+        "vitamin_e_mg": 1.58,
+        "vitamin_k_mcg": 4.9
+      },
+      "minerals": {
+        "calcium_mg": 7,
+        "iron_mg": 0.4,
+        "magnesium_mg": 12,
+        "phosphorus_mg": 26,
+        "potassium_mg": 211,
+        "sodium_mg": 4,
+        "zinc_mg": 0.25,
+        "copper_mg": 0.02,
+        "manganese_mg": 0.11,
+        "selenium_mcg": 0.1
+      },
+      "benefits": {
+        "eyes": "Exceptionally rich in lutein, zeaxanthin, and Vitamin A for eye protection",
+        "bones": "Vitamin C supports collagen production essential for bone matrix",
+        "skin": "Highest Vitamin C of any common vegetable supports collagen and skin repair",
+        "heart": "Antioxidants reduce inflammation and LDL oxidation; potassium supports blood pressure",
+        "brain": "Vitamin B6 and folate support neurotransmitter production",
+        "digestion": "Fibre and water promote healthy bowel function",
+        "immunity": "Extremely high Vitamin C content provides powerful immune support",
+        "blood": "Folate supports red blood cell formation and helps prevent anaemia"
+      },
+      "best_ways_to_eat": {
+        "raw": "Maximum Vitamin C retained; excellent in salads and as snacks",
+        "boiled": "Softens peppers; some nutrients lost to cooking water",
+        "steamed": "Better nutrient retention than boiling",
+        "juice": "Fresh pepper juice provides a Vitamin C-dense drink",
+        "cooked": "Roasting enhances sweetness; sautéed in stir-fries and curries"
+      },
+      "interesting_facts": [
+        "Red bell peppers have three times more Vitamin C than oranges.",
+        "Green, yellow, orange, and red bell peppers are all the same plant at different stages of ripeness.",
+        "Bell peppers contain no capsaicin (the compound that makes chillies hot).",
+        "Red bell peppers have 11 times more beta-carotene than green ones.",
+        "Bell peppers are native to Central and South America and were brought to Europe by Christopher Columbus."
+      ]
+    },
+    {
+      "basic_information": {
+        "name": "Cauliflower",
+        "category": "Vegetable",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cauliflower_2.jpg/500px-Cauliflower_2.jpg",
+        "scientific_name": "Brassica oleracea var. botrytis",
+        "color": "White",
+        "season": "Autumn, Winter"
+      },
+      "nutrition_per_100g": {
+        "calories_kcal": 25,
+        "water_g": 92.1,
+        "protein_g": 1.9,
+        "carbohydrates_g": 5.0,
+        "sugar_g": 1.9,
+        "fibre_g": 2.0,
+        "fat_g": 0.3,
+        "cholesterol_mg": 0
+      },
+      "vitamins": {
+        "vitamin_a_mcg": 0,
+        "vitamin_b1_mg": 0.05,
+        "vitamin_b2_mg": 0.06,
+        "vitamin_b3_mg": 0.51,
+        "vitamin_b5_mg": 0.67,
+        "vitamin_b6_mg": 0.18,
+        "vitamin_b7_mcg": 1.5,
+        "vitamin_b9_mcg": 57,
+        "vitamin_b12_mcg": 0,
+        "vitamin_c_mg": 48.2,
+        "vitamin_d_mcg": 0,
+        "vitamin_e_mg": 0.08,
+        "vitamin_k_mcg": 15.5
+      },
+      "minerals": {
+        "calcium_mg": 22,
+        "iron_mg": 0.4,
+        "magnesium_mg": 15,
+        "phosphorus_mg": 44,
+        "potassium_mg": 299,
+        "sodium_mg": 30,
+        "zinc_mg": 0.27,
+        "copper_mg": 0.04,
+        "manganese_mg": 0.16,
+        "selenium_mcg": 0.6
+      },
+      "benefits": {
+        "eyes": "Vitamin C and antioxidants protect eye tissue from oxidative damage",
+        "bones": "Vitamin K and calcium contribute to bone density",
+        "skin": "Vitamin C promotes collagen synthesis for firm, youthful skin",
+        "heart": "Sulforaphane and fibre reduce inflammation and cholesterol levels",
+        "brain": "Choline in cauliflower supports memory and cognitive function",
+        "digestion": "Fibre and glucosinolates support gut health and reduce colon cancer risk",
+        "immunity": "Vitamin C and sulforaphane enhance immune system activity",
+        "blood": "Vitamin K aids clotting; folate supports red blood cell production"
+      },
+      "best_ways_to_eat": {
+        "raw": "Retains all Vitamin C and sulforaphane; great in salads or with dips",
+        "boiled": "Can reduce glucosinolate content significantly; keep cooking time short",
+        "steamed": "Best cooking method for preserving sulforaphane and nutrients",
+        "juice": "Blended into smoothies or juiced for a mild nutrient boost",
+        "cooked": "Roasted cauliflower develops rich caramelised flavour; used as low-carb rice substitute"
+      },
+      "interesting_facts": [
+        "The white colour of cauliflower is maintained by tying the outer leaves to shield the curd from sunlight.",
+        "Cauliflower can be found in purple, orange, green (Romanesco), and yellow varieties.",
+        "The edible part of the cauliflower is called the 'curd'.",
+        "Cauliflower rice has become a popular low-carbohydrate alternative to white rice.",
+        "Mark Twain called cauliflower 'a cabbage with a college education'."
+      ]
+    },
+    {
+      "basic_information": {
+        "name": "Cucumber",
+        "category": "Vegetable",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/500px-A_small_cup_of_coffee.JPG",
+        "scientific_name": "Cucumis sativus",
+        "color": "Green",
+        "season": "Summer"
+      },
+      "nutrition_per_100g": {
+        "calories_kcal": 15,
+        "water_g": 95.2,
+        "protein_g": 0.7,
+        "carbohydrates_g": 3.6,
+        "sugar_g": 1.7,
+        "fibre_g": 0.5,
+        "fat_g": 0.1,
+        "cholesterol_mg": 0
+      },
+      "vitamins": {
+        "vitamin_a_mcg": 5,
+        "vitamin_b1_mg": 0.03,
+        "vitamin_b2_mg": 0.03,
+        "vitamin_b3_mg": 0.10,
+        "vitamin_b5_mg": 0.26,
+        "vitamin_b6_mg": 0.04,
+        "vitamin_b7_mcg": 0.9,
+        "vitamin_b9_mcg": 7,
+        "vitamin_b12_mcg": 0,
+        "vitamin_c_mg": 2.8,
+        "vitamin_d_mcg": 0,
+        "vitamin_e_mg": 0.03,
+        "vitamin_k_mcg": 16.4
+      },
+      "minerals": {
+        "calcium_mg": 16,
+        "iron_mg": 0.3,
+        "magnesium_mg": 13,
+        "phosphorus_mg": 24,
+        "potassium_mg": 147,
+        "sodium_mg": 2,
+        "zinc_mg": 0.20,
+        "copper_mg": 0.04,
+        "manganese_mg": 0.08,
+        "selenium_mcg": 0.3
+      },
+      "benefits": {
+        "eyes": "Placed on eyes to reduce puffiness; contains antioxidants that protect eye tissue",
+        "bones": "Vitamin K supports bone mineralisation and calcium metabolism",
+        "skin": "High water content and silica hydrate skin and support connective tissue",
+        "heart": "Potassium and magnesium support healthy blood pressure levels",
+        "brain": "Fisetin in cucumber is linked to improved memory and neuroprotection",
+        "digestion": "High water and fibre content promote hydration and digestive regularity",
+        "immunity": "Antioxidants reduce inflammation; Vitamin C boosts immune defences",
+        "blood": "Vitamin K supports blood clotting; low sodium helps regulate blood pressure"
+      },
+      "best_ways_to_eat": {
+        "raw": "Best eaten raw in salads, sandwiches, or as a snack with dip",
+        "boiled": "Rarely boiled; loses texture and nutrients",
+        "steamed": "Unusual but possible; retains more texture than boiling",
+        "juice": "Cucumber juice is refreshing, hydrating, and anti-inflammatory",
+        "cooked": "Can be sautéed or added to soups; becomes tender quickly"
+      },
+      "interesting_facts": [
+        "Cucumbers are technically a fruit botanically, but are used and classified as vegetables culinarily.",
+        "They are one of the oldest cultivated crops, with evidence of cultivation dating back 3,000 years in India.",
+        "Cucumbers are 95% water, making them one of the most hydrating foods.",
+        "The phrase 'cool as a cucumber' refers to the fact that the inside of a cucumber is up to 20°F cooler than the outside air.",
+        "Cucumbers contain a compound called cucurbitacin, which gives them their slightly bitter taste."
+      ]
+    },
+    {
+      "basic_information": {
+        "name": "Peas",
+        "category": "Vegetable",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg/500px-Good_Food_Display_-_NCI_Visuals_Online.jpg",
+        "scientific_name": "Pisum sativum",
+        "color": "Green",
+        "season": "Spring, Early Summer"
+      },
+      "nutrition_per_100g": {
+        "calories_kcal": 81,
+        "water_g": 78.9,
+        "protein_g": 5.4,
+        "carbohydrates_g": 14.5,
+        "sugar_g": 5.7,
+        "fibre_g": 5.1,
+        "fat_g": 0.4,
+        "cholesterol_mg": 0
+      },
+      "vitamins": {
+        "vitamin_a_mcg": 38,
+        "vitamin_b1_mg": 0.27,
+        "vitamin_b2_mg": 0.13,
+        "vitamin_b3_mg": 2.09,
+        "vitamin_b5_mg": 0.10,
+        "vitamin_b6_mg": 0.17,
+        "vitamin_b7_mcg": 1.3,
+        "vitamin_b9_mcg": 65,
+        "vitamin_b12_mcg": 0,
+        "vitamin_c_mg": 40.0,
+        "vitamin_d_mcg": 0,
+        "vitamin_e_mg": 0.13,
+        "vitamin_k_mcg": 24.8
+      },
+      "minerals": {
+        "calcium_mg": 25,
+        "iron_mg": 1.5,
+        "magnesium_mg": 33,
+        "phosphorus_mg": 108,
+        "potassium_mg": 244,
+        "sodium_mg": 5,
+        "zinc_mg": 1.24,
+        "copper_mg": 0.18,
+        "manganese_mg": 0.41,
+        "selenium_mcg": 1.8
+      },
+      "benefits": {
+        "eyes": "Lutein and zeaxanthin protect against cataracts and age-related macular degeneration",
+        "bones": "Vitamin K, calcium, and phosphorus support strong bone structure",
+        "skin": "Vitamin C and antioxidants combat skin ageing and promote collagen production",
+        "heart": "Soluble fibre lowers LDL cholesterol; potassium manages blood pressure",
+        "brain": "Thiamine and folate support neurological function and brain development",
+        "digestion": "High fibre content promotes digestive health and feeds gut microbiome",
+        "immunity": "Vitamin C, zinc, and antioxidants enhance immune system function",
+        "blood": "Iron and folate prevent iron-deficiency anaemia; Vitamin K aids clotting"
+      },
+      "best_ways_to_eat": {
+        "raw": "Fresh peas straight from the pod retain maximum sweetness and nutrients",
+        "boiled": "Quick boil (2–3 min) softens peas while retaining colour and nutrients",
+        "steamed": "Steaming preserves colour, texture, and vitamin content",
+        "juice": "Blended into green smoothies or soups",
+        "cooked": "Added to curries, stir-fries, rice dishes, and pasta"
+      },
+      "interesting_facts": [
+        "Gregor Mendel used pea plants to develop the laws of heredity in the 1860s.",
+        "Frozen peas retain more nutrients than fresh peas that have been stored for several days.",
+        "Peas fix atmospheric nitrogen through root bacteria, improving soil fertility.",
+        "Pea protein is increasingly used as a plant-based protein source in food products.",
+        "Peas were one of the first vegetables to be frozen commercially, in 1925."
+      ]
+    },
+    {
+      "basic_information": {
+        "name": "Cabbage",
+        "category": "Vegetable",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brassica_oleracea_var._capitata_f_alba_Gartenweisskohlkopf.jpg/500px-Brassica_oleracea_var._capitata_f_alba_Gartenweisskohlkopf.jpg",
+        "scientific_name": "Brassica oleracea var. capitata",
+        "color": "Green, Red, White",
+        "season": "Autumn, Winter"
+      },
+      "nutrition_per_100g": {
+        "calories_kcal": 25,
+        "water_g": 92.2,
+        "protein_g": 1.3,
+        "carbohydrates_g": 5.8,
+        "sugar_g": 3.2,
+        "fibre_g": 2.5,
+        "fat_g": 0.1,
+        "cholesterol_mg": 0
+      },
+      "vitamins": {
+        "vitamin_a_mcg": 5,
+        "vitamin_b1_mg": 0.06,
+        "vitamin_b2_mg": 0.04,
+        "vitamin_b3_mg": 0.23,
+        "vitamin_b5_mg": 0.21,
+        "vitamin_b6_mg": 0.12,
+        "vitamin_b7_mcg": 0.6,
+        "vitamin_b9_mcg": 43,
+        "vitamin_b12_mcg": 0,
+        "vitamin_c_mg": 36.6,
+        "vitamin_d_mcg": 0,
+        "vitamin_e_mg": 0.15,
+        "vitamin_k_mcg": 76.0
+      },
+      "minerals": {
+        "calcium_mg": 40,
+        "iron_mg": 0.5,
+        "magnesium_mg": 12,
+        "phosphorus_mg": 26,
+        "potassium_mg": 170,
+        "sodium_mg": 18,
+        "zinc_mg": 0.18,
+        "copper_mg": 0.02,
+        "manganese_mg": 0.16,
+        "selenium_mcg": 0.3
+      },
+      "benefits": {
+        "eyes": "Vitamin C and beta-carotene protect eyes from oxidative damage",
+        "bones": "High Vitamin K content is essential for bone mineralisation",
+        "skin": "Vitamin C boosts collagen production; sulphur compounds purify skin",
+        "heart": "Anthocyanins in red cabbage reduce inflammation and improve heart health",
+        "brain": "Vitamin K and anthocyanins support cognitive function and neuroprotection",
+        "digestion": "Fermented cabbage (sauerkraut, kimchi) contains probiotics for gut health",
+        "immunity": "Vitamin C and sulforaphane strengthen immune response",
+        "blood": "Vitamin K is essential for blood clotting; folate prevents anaemia"
+      },
+      "best_ways_to_eat": {
+        "raw": "Coleslaw or shredded in salads retains maximum Vitamin C",
+        "boiled": "Used in soups and stews; loses some nutrients",
+        "steamed": "Retains more nutrients than boiling; light and digestible",
+        "juice": "Cabbage juice is traditionally used for gut health and ulcer relief",
+        "cooked": "Fermented as sauerkraut or kimchi adds probiotics; stir-fried or stuffed"
+      },
+      "interesting_facts": [
+        "Cabbage has been cultivated for more than 4,000 years and was prized by ancient Greeks and Romans.",
+        "Sauerkraut (fermented cabbage) was used by sailors in the 18th century to prevent scurvy.",
+        "Red cabbage turns blue when cooked due to pH changes; adding vinegar maintains its red colour.",
+        "Cabbage leaves have been used historically as poultices for inflammation and joint pain.",
+        "China is the largest producer of cabbage globally."
+      ]
+    },
+    {
+      "basic_information": {
+        "name": "Sweet Potato",
+        "category": "Vegetable",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ipomoea_batatas_006.JPG/500px-Ipomoea_batatas_006.JPG",
+        "scientific_name": "Ipomoea batatas",
+        "color": "Orange, Purple, White",
+        "season": "Autumn, Winter"
+      },
+      "nutrition_per_100g": {
+        "calories_kcal": 86,
+        "water_g": 77.3,
+        "protein_g": 1.6,
+        "carbohydrates_g": 20.1,
+        "sugar_g": 4.2,
+        "fibre_g": 3.0,
+        "fat_g": 0.1,
+        "cholesterol_mg": 0
+      },
+      "vitamins": {
+        "vitamin_a_mcg": 961,
+        "vitamin_b1_mg": 0.08,
+        "vitamin_b2_mg": 0.06,
+        "vitamin_b3_mg": 0.56,
+        "vitamin_b5_mg": 0.80,
+        "vitamin_b6_mg": 0.29,
+        "vitamin_b7_mcg": 2.4,
+        "vitamin_b9_mcg": 11,
+        "vitamin_b12_mcg": 0,
+        "vitamin_c_mg": 19.6,
+        "vitamin_d_mcg": 0,
+        "vitamin_e_mg": 0.26,
+        "vitamin_k_mcg": 1.8
+      },
+      "minerals": {
+        "calcium_mg": 30,
+        "iron_mg": 0.6,
+        "magnesium_mg": 25,
+        "phosphorus_mg": 47,
+        "potassium_mg": 337,
+        "sodium_mg": 55,
+        "zinc_mg": 0.30,
+        "copper_mg": 0.15,
+        "manganese_mg": 0.26,
+        "selenium_mcg": 0.6
+      },
+      "benefits": {
+        "eyes": "Extremely high in beta-carotene (Vitamin A precursor), critical for night vision and eye health",
+        "bones": "Calcium, potassium, and magnesium support bone density and strength",
+        "skin": "Beta-carotene protects against UV damage and promotes skin cell renewal",
+        "heart": "Potassium lowers blood pressure; antioxidants reduce cardiovascular inflammation",
+        "brain": "Anthocyanins in purple sweet potato have neuroprotective properties",
+        "digestion": "High fibre content supports gut health and blood sugar regulation",
+        "immunity": "Beta-carotene, Vitamin C, and manganese strengthen immune function",
+        "blood": "Iron and copper support red blood cell formation; Vitamin B6 aids haemoglobin synthesis"
+      },
+      "best_ways_to_eat": {
+        "raw": "Not commonly eaten raw; can cause digestive discomfort",
+        "boiled": "Boiling retains more antioxidants than some other methods",
+        "steamed": "Preserves beta-carotene and nutrients well; light and digestible",
+        "juice": "Sweet potato juice provides concentrated nutrients",
+        "cooked": "Baked sweet potato with skin is the most nutritious; also roasted or mashed"
+      },
+      "interesting_facts": [
+        "Despite the name, sweet potatoes are not closely related to regular potatoes.",
+        "One medium sweet potato provides over 100% of the daily recommended intake of Vitamin A.",
+        "Sweet potatoes are one of the oldest vegetables known to humans, with evidence of cultivation dating back 10,000 years.",
+        "The Okinawan purple sweet potato is associated with the longevity of the Okinawan people of Japan.",
+        "Sweet potatoes are actually a root vegetable, not a tuber like regular potatoes."
+      ]
+    },
+    {
+      "basic_information": {
+        "name": "Beetroot",
+        "category": "Vegetable",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Rote_Bete.jpg/500px-Rote_Bete.jpg",
+        "scientific_name": "Beta vulgaris",
+        "color": "Deep Red-Purple",
+        "season": "Autumn, Winter"
+      },
+      "nutrition_per_100g": {
+        "calories_kcal": 43,
+        "water_g": 87.6,
+        "protein_g": 1.6,
+        "carbohydrates_g": 9.6,
+        "sugar_g": 6.8,
+        "fibre_g": 2.8,
+        "fat_g": 0.2,
+        "cholesterol_mg": 0
+      },
+      "vitamins": {
+        "vitamin_a_mcg": 2,
+        "vitamin_b1_mg": 0.03,
+        "vitamin_b2_mg": 0.04,
+        "vitamin_b3_mg": 0.33,
+        "vitamin_b5_mg": 0.15,
+        "vitamin_b6_mg": 0.07,
+        "vitamin_b7_mcg": 0.2,
+        "vitamin_b9_mcg": 109,
+        "vitamin_b12_mcg": 0,
+        "vitamin_c_mg": 4.9,
+        "vitamin_d_mcg": 0,
+        "vitamin_e_mg": 0.04,
+        "vitamin_k_mcg": 0.2
+      },
+      "minerals": {
+        "calcium_mg": 16,
+        "iron_mg": 0.8,
+        "magnesium_mg": 23,
+        "phosphorus_mg": 40,
+        "potassium_mg": 325,
+        "sodium_mg": 78,
+        "zinc_mg": 0.35,
+        "copper_mg": 0.07,
+        "manganese_mg": 0.33,
+        "selenium_mcg": 0.7
+      },
+      "benefits": {
+        "eyes": "Antioxidants and beta-carotene protect against oxidative damage to the eyes",
+        "bones": "Boron in beetroot may support bone density; magnesium contributes to bone structure",
+        "skin": "Betacyanins are powerful antioxidants that protect skin cells from damage",
+        "heart": "Dietary nitrates are converted to nitric oxide, dilating blood vessels and lowering blood pressure",
+        "brain": "Nitric oxide increases blood flow to the brain, improving cognitive function",
+        "digestion": "High fibre and betaine support liver function and digestive health",
+        "immunity": "Betalain pigments have anti-inflammatory and antioxidant properties",
+        "blood": "Extremely high folate content supports red blood cell production and prevents anaemia"
+      },
+      "best_ways_to_eat": {
+        "raw": "Grated in salads; retains maximum nitrates and folate",
+        "boiled": "Classic preparation; some folate is lost to cooking water",
+        "steamed": "Better than boiling for retaining folate and betalain pigments",
+        "juice": "Beetroot juice is widely consumed by athletes for its nitrate content and performance benefits",
+        "cooked": "Roasted beetroot becomes sweeter; used in soups (borscht) and salads"
+      },
+      "interesting_facts": [
+        "Beetroot juice has been shown to improve athletic endurance and lower blood pressure within hours of consumption.",
+        "The red pigment in beetroot (betacyanin) can temporarily turn urine and faeces red or pink — a harmless condition called beeturia.",
+        "During the 19th century, beetroot juice was used as a hair dye.",
+        "Sugar beet, a variety of Beta vulgaris, accounts for about 20% of the world's sugar production.",
+        "Roman physicians prescribed beetroot as a treatment for fever and constipation."
+      ]
+    },
+    {
+      "basic_information": {
+        "name": "Zucchini (Courgette)",
+        "category": "Vegetable",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_gold_zucchini.jpg/500px-All_gold_zucchini.jpg",
+        "scientific_name": "Cucurbita pepo",
+        "color": "Green, Yellow",
+        "season": "Summer"
+      },
+      "nutrition_per_100g": {
+        "calories_kcal": 17,
+        "water_g": 94.8,
+        "protein_g": 1.2,
+        "carbohydrates_g": 3.1,
+        "sugar_g": 2.5,
+        "fibre_g": 1.0,
+        "fat_g": 0.3,
+        "cholesterol_mg": 0
+      },
+      "vitamins": {
+        "vitamin_a_mcg": 10,
+        "vitamin_b1_mg": 0.04,
+        "vitamin_b2_mg": 0.09,
+        "vitamin_b3_mg": 0.45,
+        "vitamin_b5_mg": 0.20,
+        "vitamin_b6_mg": 0.16,
+        "vitamin_b7_mcg": 0.7,
+        "vitamin_b9_mcg": 24,
+        "vitamin_b12_mcg": 0,
+        "vitamin_c_mg": 17.9,
+        "vitamin_d_mcg": 0,
+        "vitamin_e_mg": 0.12,
+        "vitamin_k_mcg": 4.3
+      },
+      "minerals": {
+        "calcium_mg": 16,
+        "iron_mg": 0.4,
+        "magnesium_mg": 18,
+        "phosphorus_mg": 38,
+        "potassium_mg": 261,
+        "sodium_mg": 8,
+        "zinc_mg": 0.32,
+        "copper_mg": 0.05,
+        "manganese_mg": 0.18,
+        "selenium_mcg": 0.2
+      },
+      "benefits": {
+        "eyes": "Lutein and zeaxanthin in zucchini protect against age-related macular degeneration",
+        "bones": "Vitamin K and magnesium support bone structure and density",
+        "skin": "High water content and antioxidants hydrate and protect skin cells",
+        "heart": "Potassium and fibre help reduce blood pressure and cholesterol",
+        "brain": "Folate and Vitamin B6 support neurotransmitter production and brain health",
+        "digestion": "Water content and fibre support bowel regularity and gut health",
+        "immunity": "Vitamin C and antioxidants strengthen immune function",
+        "blood": "Folate supports red blood cell formation; iron contributes to haemoglobin production"
+      },
+      "best_ways_to_eat": {
+        "raw": "Spiralised as zoodles or thinly sliced in salads; maximum nutrient retention",
+        "boiled": "Can be added to soups and stews; loses some texture",
+        "steamed": "Light steaming preserves nutrients and creates a tender texture",
+        "juice": "Blended into green smoothies or combined with other vegetables",
+        "cooked": "Grilled, roasted, or sautéed; also used in baking (zucchini bread)"
+      },
+      "interesting_facts": [
+        "Zucchini flowers are edible and considered a delicacy in Italian cuisine, often stuffed and fried.",
+        "Zucchini is technically a fruit botanically, like tomatoes and cucumbers.",
+        "The world record zucchini weighed over 29 kg (64 lbs).",
+        "Zucchini is one of the easiest vegetables to grow at home and is highly prolific in summer.",
+        "The name 'zucchini' is Italian, while 'courgette' is used in British English and French."
+      ]
+    },
+    {
+      "basic_information": {
+        "name": "Kale",
+        "category": "Vegetable",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Kale-Bundle.jpg/500px-Kale-Bundle.jpg",
+        "scientific_name": "Brassica oleracea var. sabellica",
+        "color": "Dark Green, Purple",
+        "season": "Autumn, Winter"
+      },
+      "nutrition_per_100g": {
+        "calories_kcal": 35,
+        "water_g": 84.5,
+        "protein_g": 2.9,
+        "carbohydrates_g": 4.4,
+        "sugar_g": 0.99,
+        "fibre_g": 4.1,
+        "fat_g": 1.5,
+        "cholesterol_mg": 0
+      },
+      "vitamins": {
+        "vitamin_a_mcg": 500,
+        "vitamin_b1_mg": 0.11,
+        "vitamin_b2_mg": 0.13,
+        "vitamin_b3_mg": 1.00,
+        "vitamin_b5_mg": 0.09,
+        "vitamin_b6_mg": 0.27,
+        "vitamin_b7_mcg": 0.7,
+        "vitamin_b9_mcg": 141,
+        "vitamin_b12_mcg": 0,
+        "vitamin_c_mg": 120.0,
+        "vitamin_d_mcg": 0,
+        "vitamin_e_mg": 1.54,
+        "vitamin_k_mcg": 704.8
+      },
+      "minerals": {
+        "calcium_mg": 150,
+        "iron_mg": 1.5,
+        "magnesium_mg": 47,
+        "phosphorus_mg": 92,
+        "potassium_mg": 491,
+        "sodium_mg": 38,
+        "zinc_mg": 0.56,
+        "copper_mg": 0.29,
+        "manganese_mg": 0.66,
+        "selenium_mcg": 0.9
+      },
+      "benefits": {
+        "eyes": "One of the richest sources of lutein and zeaxanthin; provides exceptional eye protection",
+        "bones": "The highest Vitamin K content of any common vegetable; critical for bone mineralisation",
+        "skin": "Vitamin C, E, and beta-carotene protect skin and promote collagen synthesis",
+        "heart": "Bile acid sequestrants in kale lower LDL cholesterol; potassium regulates blood pressure",
+        "brain": "Vitamin K, folate, and lutein are associated with improved memory and brain function",
+        "digestion": "High fibre content and glucosinolates support gut health and reduce colon cancer risk",
+        "immunity": "Exceptionally high Vitamin C, plus sulforaphane and beta-carotene boost immunity",
+        "blood": "Iron, folate, and Vitamin K support red blood cell production and clotting"
+      },
+      "best_ways_to_eat": {
+        "raw": "Baby kale in salads; massaging with oil and salt breaks down tough fibres",
+        "boiled": "Brief blanching reduces oxalates and bitterness",
+        "steamed": "Steaming preserves sulforaphane, Vitamins C and K",
+        "juice": "Green kale juice or smoothies provide a concentrated nutrient boost",
+        "cooked": "Baked into kale chips; sautéed with garlic; added to soups and pasta"
+      },
+      "interesting_facts": [
+        "During World War II, the UK government encouraged citizens to grow kale because it was easy to cultivate and highly nutritious.",
+        "Kale was the most popular green vegetable in Europe throughout the Middle Ages.",
+        "A single cup of cooked kale provides over 1,000% of the daily recommended intake of Vitamin K.",
+        "Kale belongs to the same species as cabbage, broccoli, Brussels sprouts, and cauliflower.",
+        "Kale gained modern 'superfood' status around 2012 and its popularity increased by over 400% in the US."
+      ]
+    },
+    {
+      "basic_information": {
+        "name": "Celery",
+        "category": "Vegetable",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Celery.jpg/500px-Celery.jpg",
+        "scientific_name": "Apium graveolens",
+        "color": "Green",
+        "season": "Autumn, Winter"
+      },
+      "nutrition_per_100g": {
+        "calories_kcal": 16,
+        "water_g": 95.4,
+        "protein_g": 0.7,
+        "carbohydrates_g": 3.0,
+        "sugar_g": 1.3,
+        "fibre_g": 1.6,
+        "fat_g": 0.2,
+        "cholesterol_mg": 0
+      },
+      "vitamins": {
+        "vitamin_a_mcg": 22,
+        "vitamin_b1_mg": 0.02,
+        "vitamin_b2_mg": 0.06,
+        "vitamin_b3_mg": 0.32,
+        "vitamin_b5_mg": 0.25,
+        "vitamin_b6_mg": 0.07,
+        "vitamin_b7_mcg": 0.5,
+        "vitamin_b9_mcg": 36,
+        "vitamin_b12_mcg": 0,
+        "vitamin_c_mg": 3.1,
+        "vitamin_d_mcg": 0,
+        "vitamin_e_mg": 0.27,
+        "vitamin_k_mcg": 29.3
+      },
+      "minerals": {
+        "calcium_mg": 40,
+        "iron_mg": 0.2,
+        "magnesium_mg": 11,
+        "phosphorus_mg": 24,
+        "potassium_mg": 260,
+        "sodium_mg": 80,
+        "zinc_mg": 0.13,
+        "copper_mg": 0.04,
+        "manganese_mg": 0.10,
+        "selenium_mcg": 0.4
+      },
+      "benefits": {
+        "eyes": "Vitamin A and antioxidants support eye health and reduce risk of degeneration",
+        "bones": "Vitamin K is essential for bone mineralisation; calcium and magnesium support bone density",
+        "skin": "High water content and Vitamin C hydrate skin and support collagen production",
+        "heart": "Phthalides relax arterial walls and lower blood pressure; antioxidants reduce inflammation",
+        "brain": "Luteolin in celery has neuroprotective and anti-inflammatory effects in the brain",
+        "digestion": "Fibre and water promote bowel health; celery is a natural diuretic",
+        "immunity": "Vitamin C, antioxidants, and anti-inflammatory compounds bolster immune function",
+        "blood": "Coumarins in celery may reduce blood pressure and prevent clot formation"
+      },
+      "best_ways_to_eat": {
+        "raw": "Best eaten raw as a snack with nut butter or hummus; retains all nutrients",
+        "boiled": "Used in soups and stocks; provides flavour but loses some nutrients",
+        "steamed": "Lightly steamed retains more nutrients than boiling",
+        "juice": "Celery juice has become popular for its anti-inflammatory and digestive benefits",
+        "cooked": "Used as a base (mirepoix) in cooking; also stir-fried or braised"
+      },
+      "interesting_facts": [
+        "The myth that celery has 'negative calories' (burns more to digest than it contains) is false, though it is very low in calories.",
+        "Ancient Greeks used celery as a seasoning; ancient Romans used it medicinally.",
+        "Celery seeds are used as a spice and in herbal medicine for joint pain and blood pressure.",
+        "A single stalk of celery is about 95% water.",
+        "Pascal celery, the most common variety, was first cultivated in the late 19th century."
+      ]
+    },
+    {
+      "basic_information": {
+        "name": "Asparagus",
+        "category": "Vegetable",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Fresh_green_asparagus.jpg/500px-Fresh_green_asparagus.jpg",
+        "scientific_name": "Asparagus officinalis",
+        "color": "Green, White, Purple",
+        "season": "Spring"
+      },
+      "nutrition_per_100g": {
+        "calories_kcal": 20,
+        "water_g": 93.2,
+        "protein_g": 2.2,
+        "carbohydrates_g": 3.9,
+        "sugar_g": 1.9,
+        "fibre_g": 2.1,
+        "fat_g": 0.1,
+        "cholesterol_mg": 0
+      },
+      "vitamins": {
+        "vitamin_a_mcg": 38,
+        "vitamin_b1_mg": 0.14,
+        "vitamin_b2_mg": 0.14,
+        "vitamin_b3_mg": 0.98,
+        "vitamin_b5_mg": 0.27,
+        "vitamin_b6_mg": 0.09,
+        "vitamin_b7_mcg": 1.8,
+        "vitamin_b9_mcg": 52,
+        "vitamin_b12_mcg": 0,
+        "vitamin_c_mg": 5.6,
+        "vitamin_d_mcg": 0,
+        "vitamin_e_mg": 1.13,
+        "vitamin_k_mcg": 41.6
+      },
+      "minerals": {
+        "calcium_mg": 24,
+        "iron_mg": 2.1,
+        "magnesium_mg": 14,
+        "phosphorus_mg": 52,
+        "potassium_mg": 202,
+        "sodium_mg": 2,
+        "zinc_mg": 0.54,
+        "copper_mg": 0.19,
+        "manganese_mg": 0.16,
+        "selenium_mcg": 2.3
+      },
+      "benefits": {
+        "eyes": "Lutein, zeaxanthin, and Vitamin E protect eye tissue from oxidative damage",
+        "bones": "Vitamin K is vital for bone protein activation and mineral density",
+        "skin": "Vitamin E and C protect skin from UV damage and support collagen synthesis",
+        "heart": "Folate reduces homocysteine levels; potassium and asparagine support heart health",
+        "brain": "Folate is critical for cognitive health; asparagus contains glutathione, a powerful antioxidant",
+        "digestion": "Inulin (prebiotic) feeds beneficial gut bacteria; fibre promotes bowel regularity",
+        "immunity": "Glutathione is one of the body's most important immune-boosting antioxidants",
+        "blood": "High iron content supports red blood cell formation; folate prevents megaloblastic anaemia"
+      },
+      "best_ways_to_eat": {
+        "raw": "Thin spears can be eaten raw in salads or shaved with a peeler",
+        "boiled": "Quick boil (2–3 min) in salted water is traditional",
+        "steamed": "Steaming preserves folate and antioxidants better than boiling",
+        "juice": "Can be blended into green juices; has a strong flavour",
+        "cooked": "Grilled or roasted with olive oil and lemon is a classic preparation"
+      },
+      "interesting_facts": [
+        "Asparagus causes a distinctive odour in urine due to asparagusic acid, though not everyone can detect it.",
+        "Asparagus takes 3 years to grow from seed before the first harvest.",
+        "White asparagus is grown underground or under cover to prevent photosynthesis and chlorophyll production.",
+        "Asparagus was considered a luxury food in ancient Rome and Egypt.",
+        "Asparagus can grow up to 10 cm per day in ideal conditions."
+      ]
+    },
+    {
+      "basic_information": {
+        "name": "Eggplant (Brinjal)",
+        "category": "Vegetable",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Aubergine.jpg/500px-Aubergine.jpg",
+        "scientific_name": "Solanum melongena",
+        "color": "Purple, Black",
+        "season": "Summer, Autumn"
+      },
+      "nutrition_per_100g": {
+        "calories_kcal": 25,
+        "water_g": 92.3,
+        "protein_g": 1.0,
+        "carbohydrates_g": 5.9,
+        "sugar_g": 3.5,
+        "fibre_g": 3.0,
+        "fat_g": 0.2,
+        "cholesterol_mg": 0
+      },
+      "vitamins": {
+        "vitamin_a_mcg": 1,
+        "vitamin_b1_mg": 0.04,
+        "vitamin_b2_mg": 0.04,
+        "vitamin_b3_mg": 0.65,
+        "vitamin_b5_mg": 0.28,
+        "vitamin_b6_mg": 0.08,
+        "vitamin_b7_mcg": 0.6,
+        "vitamin_b9_mcg": 22,
+        "vitamin_b12_mcg": 0,
+        "vitamin_c_mg": 2.2,
+        "vitamin_d_mcg": 0,
+        "vitamin_e_mg": 0.30,
+        "vitamin_k_mcg": 3.5
+      },
+      "minerals": {
+        "calcium_mg": 9,
+        "iron_mg": 0.2,
+        "magnesium_mg": 14,
+        "phosphorus_mg": 24,
+        "potassium_mg": 229,
+        "sodium_mg": 2,
+        "zinc_mg": 0.16,
+        "copper_mg": 0.08,
+        "manganese_mg": 0.25,
+        "selenium_mcg": 0.3
+      },
+      "benefits": {
+        "eyes": "Nasunin (anthocyanin in purple skin) protects eye cell membranes from damage",
+        "bones": "Copper and manganese contribute to bone formation and connective tissue",
+        "skin": "Nasunin and antioxidants protect skin from oxidative stress and ageing",
+        "heart": "Chlorogenic acid reduces LDL cholesterol and inhibits cancer cell formation; fibre lowers cholesterol",
+        "brain": "Nasunin protects brain cell membranes from free radical damage; iron enhances blood flow to brain",
+        "digestion": "High fibre content promotes bowel regularity and supports gut microbiome health",
+        "immunity": "Antioxidants and phytonutrients combat inflammation and free radical damage",
+        "blood": "Potassium helps regulate blood pressure; folate supports red blood cell production"
+      },
+      "best_ways_to_eat": {
+        "raw": "Not recommended raw; contains solanine which can cause mild toxicity",
+        "boiled": "Softens quickly; used in curries, stews, and Mediterranean dishes",
+        "steamed": "Light steaming preserves antioxidants and reduces bitterness",
+        "juice": "Rarely juiced; occasionally used in herbal medicine preparations",
+        "cooked": "Grilled, roasted, or fried (baba ganoush, moussaka, bharta); absorbs flavours well"
+      },
+      "interesting_facts": [
+        "Eggplant gets its name from certain white varieties that resemble hen's eggs.",
+        "It is native to the Indian subcontinent and has been cultivated for over 4,000 years.",
+        "Eggplant absorbs large amounts of oil during frying due to its sponge-like structure.",
+        "It belongs to the nightshade family along with tomatoes, peppers, and potatoes.",
+        "The purple pigment nasunin is unique to eggplants and is a powerful antioxidant."
+      ]
+    },
+    {
+      "basic_information": {
+        "name": "Radish",
+        "category": "Vegetable",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Radishes.jpg/500px-Radishes.jpg",
+        "scientific_name": "Raphanus sativus",
+        "color": "Red, White, Purple",
+        "season": "Spring, Autumn"
+      },
+      "nutrition_per_100g": {
+        "calories_kcal": 16,
+        "water_g": 95.3,
+        "protein_g": 0.7,
+        "carbohydrates_g": 3.4,
+        "sugar_g": 1.9,
+        "fibre_g": 1.6,
+        "fat_g": 0.1,
+        "cholesterol_mg": 0
+      },
+      "vitamins": {
+        "vitamin_a_mcg": 0,
+        "vitamin_b1_mg": 0.01,
+        "vitamin_b2_mg": 0.05,
+        "vitamin_b3_mg": 0.25,
+        "vitamin_b5_mg": 0.17,
+        "vitamin_b6_mg": 0.07,
+        "vitamin_b7_mcg": 0.6,
+        "vitamin_b9_mcg": 25,
+        "vitamin_b12_mcg": 0,
+        "vitamin_c_mg": 14.8,
+        "vitamin_d_mcg": 0,
+        "vitamin_e_mg": 0.0,
+        "vitamin_k_mcg": 1.3
+      },
+      "minerals": {
+        "calcium_mg": 25,
+        "iron_mg": 0.3,
+        "magnesium_mg": 10,
+        "phosphorus_mg": 20,
+        "potassium_mg": 233,
+        "sodium_mg": 39,
+        "zinc_mg": 0.28,
+        "copper_mg": 0.05,
+        "manganese_mg": 0.07,
+        "selenium_mcg": 0.6
+      },
+      "benefits": {
+        "eyes": "Vitamin C and antioxidants help protect the lens of the eye from oxidative damage",
+        "bones": "Calcium and Vitamin C support bone density and collagen in bone matrix",
+        "skin": "Vitamin C stimulates collagen; high water content hydrates skin",
+        "heart": "Anthocyanins and isothiocyanates reduce cardiovascular inflammation",
+        "brain": "Folate and antioxidants support brain health and reduce oxidative stress",
+        "digestion": "Bile production stimulation by radishes aids fat digestion and liver detoxification",
+        "immunity": "Vitamin C and isothiocyanates boost immune defences and fight infections",
+        "blood": "Folate supports red blood cell formation; potassium regulates blood pressure"
+      },
+      "best_ways_to_eat": {
+        "raw": "Most commonly eaten raw in salads or as a snack; retains maximum nutrients",
+        "boiled": "Can be boiled or added to soups; loses some sharpness",
+        "steamed": "Lightly steamed retains more nutrients than boiling",
+        "juice": "Radish juice with lemon is used traditionally for liver and kidney health",
+        "cooked": "Roasted or stir-fried radish becomes milder and sweeter in flavour"
+      },
+      "interesting_facts": [
+        "Radishes were used as currency in ancient Egypt, alongside gold and garlic.",
+        "The word 'radish' comes from the Latin 'radix', simply meaning 'root'.",
+        "Daikon radish (white radish) is one of the most widely consumed vegetables in Asia.",
+        "Radishes can be grown from seed to harvest in as little as 3–4 weeks.",
+        "Ancient Egyptian labourers who built the pyramids were reportedly fed radishes, onions, and garlic."
+      ]
+    }
+]
