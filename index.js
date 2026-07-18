@@ -10,6 +10,14 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" />
   <!-- App styles -->
   <link rel="stylesheet" href="css/app.css" />
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-4812VFLT3M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4812VFLT3M');
+</script>
 </head>
 <body>
 
